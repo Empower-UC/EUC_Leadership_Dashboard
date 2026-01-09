@@ -550,6 +550,101 @@ def generate_insights_json(journeys: pd.DataFrame, output_dir: Path) -> Dict[str
     avg_days = with_data['days_in_program'].mean() if len(with_data) > 0 else 0
     avg_fpl_change = with_data['fpl_change'].mean() if len(with_data) > 0 else 0
 
+    # === SUCCESS PREDICTORS ===
+    # Graduation rates by entry FPL bracket
+    success_by_fpl = []
+    fpl_brackets = [
+        ("Deep Poverty (<50%)", 0, 50),
+        ("Poverty (50-100%)", 50, 100),
+        ("Near Poverty (100-150%)", 100, 150),
+        ("Above 150%", 150, 9999),
+    ]
+    total_graduates = journeys['is_graduate'].sum()
+
+    for name, low, high in fpl_brackets:
+        bracket_data = with_fpl[(with_fpl['enrollment_fpl'] >= low) & (with_fpl['enrollment_fpl'] < high)]
+        if len(bracket_data) >= 5:
+            graduates = bracket_data['is_graduate'].sum()
+            grad_rate = (graduates / len(bracket_data) * 100) if len(bracket_data) > 0 else 0
+            success_by_fpl.append({
+                "bracket": name,
+                "fplRange": f"{low}-{high if high < 9999 else ''}%",
+                "families": len(bracket_data),
+                "graduates": int(graduates),
+                "graduationRate": round(grad_rate, 1),
+                "avgFplChange": round(float(bracket_data['fpl_change'].mean()), 1) if bracket_data['fpl_change'].notna().any() else 0,
+            })
+
+    # Graduation rates by household size
+    success_by_household = []
+    for size in range(2, 8):
+        size_data = journeys[journeys['household_size'] == size]
+        if len(size_data) >= 10:
+            graduates = size_data['is_graduate'].sum()
+            grad_rate = (graduates / len(size_data) * 100) if len(size_data) > 0 else 0
+            success_by_household.append({
+                "householdSize": int(size),
+                "families": len(size_data),
+                "graduates": int(graduates),
+                "graduationRate": round(grad_rate, 1),
+                "avgFplChange": round(float(size_data['fpl_change'].mean()), 1) if size_data['fpl_change'].notna().any() else 0,
+            })
+
+    # Graduation rates by program duration
+    success_by_duration = []
+    duration_defs = [
+        ("0-6 months", 0, 180),
+        ("6-12 months", 180, 365),
+        ("12-18 months", 365, 540),
+        ("18+ months", 540, 99999),
+    ]
+    for name, low, high in duration_defs:
+        duration_data = journeys[(journeys['tenure_days'] >= low) & (journeys['tenure_days'] < high)]
+        if len(duration_data) >= 10:
+            graduates = duration_data['is_graduate'].sum()
+            grad_rate = (graduates / len(duration_data) * 100) if len(duration_data) > 0 else 0
+            success_by_duration.append({
+                "duration": name,
+                "families": len(duration_data),
+                "graduates": int(graduates),
+                "graduationRate": round(grad_rate, 1),
+                "avgFplChange": round(float(duration_data['fpl_change'].mean()), 1) if duration_data['fpl_change'].notna().any() else 0,
+            })
+
+    # Graduation rates by county (top performers)
+    success_by_county = []
+    for county in journeys['county'].dropna().unique():
+        county_data = journeys[journeys['county'] == county]
+        if len(county_data) >= 15:
+            graduates = county_data['is_graduate'].sum()
+            grad_rate = (graduates / len(county_data) * 100) if len(county_data) > 0 else 0
+            success_by_county.append({
+                "county": county,
+                "families": len(county_data),
+                "graduates": int(graduates),
+                "graduationRate": round(grad_rate, 1),
+            })
+    success_by_county.sort(key=lambda x: x['graduationRate'], reverse=True)
+
+    # Key insights for funders
+    best_fpl_bracket = max(success_by_fpl, key=lambda x: x['graduationRate']) if success_by_fpl else None
+    best_duration = max(success_by_duration, key=lambda x: x['graduationRate']) if success_by_duration else None
+
+    success_factors = {
+        "headline": "Success Predictors: Who Graduates?",
+        "totalGraduates": int(total_graduates),
+        "overallGraduationRate": round(total_graduates / len(journeys) * 100, 1) if len(journeys) > 0 else 0,
+        "byEntryFpl": success_by_fpl,
+        "byHouseholdSize": success_by_household,
+        "byDuration": success_by_duration,
+        "byCounty": success_by_county[:10],
+        "keyInsights": [
+            f"Families entering at {best_fpl_bracket['bracket']} have {best_fpl_bracket['graduationRate']}% graduation rate" if best_fpl_bracket else "",
+            f"Families staying {best_duration['duration']} have {best_duration['graduationRate']}% graduation rate" if best_duration else "",
+            f"Top county: {success_by_county[0]['county']} ({success_by_county[0]['graduationRate']}% graduation)" if success_by_county else "",
+        ],
+    }
+
     insights_data = {
         "generated_at": datetime.now().isoformat(),
         "fplTerciles": fpl_terciles,
@@ -558,6 +653,7 @@ def generate_insights_json(journeys: pd.DataFrame, output_dir: Path) -> Dict[str
         "employmentSubgroup": employment_subgroup,
         "avgDays": round(float(avg_days), 0),
         "avgFplChange": round(float(avg_fpl_change), 1),
+        "successFactors": success_factors,
     }
 
     output_path = output_dir / "insights.json"

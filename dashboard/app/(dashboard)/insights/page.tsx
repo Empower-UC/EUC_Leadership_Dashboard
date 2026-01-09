@@ -7,11 +7,12 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { Info, TrendingUp, Users, Clock, MapPin, AlertTriangle } from "lucide-react";
+import { Info, TrendingUp, Users, Clock, MapPin, AlertTriangle, Target, Home, Award } from "lucide-react";
 import insightsData from "@/lib/data/insights.json";
 
 export default function InsightsPage() {
   const data = insightsData;
+  const successFactors = data.successFactors;
 
   const durationOrder = ["0-3 mo", "3-6 mo", "6-9 mo", "9-12 mo", "12-18 mo", "18+ mo"];
   const sortedDurationBins = [...data.durationBins].sort(
@@ -35,6 +36,133 @@ export default function InsightsPage() {
       />
 
       <div className="px-8 py-8 space-y-8">
+        {/* Success Predictors - Top section for funders */}
+        {successFactors && (
+          <section>
+            <div className="mb-4">
+              <h2 className="text-[15px] font-semibold text-gray-900 flex items-center gap-2">
+                <Award className="h-4 w-4 text-[#8B9E8B]" />
+                Success Predictors: Who Graduates?
+              </h2>
+              <p className="text-sm text-gray-500 mt-0.5">
+                {successFactors.totalGraduates} families have reached 225%+ FPL ({successFactors.overallGraduationRate}% graduation rate)
+              </p>
+            </div>
+
+            {/* Key Insights Cards */}
+            <div className="grid gap-4 md:grid-cols-3 mb-6">
+              {successFactors.keyInsights.filter((i: string) => i).map((insight: string, idx: number) => (
+                <div key={idx} className="bg-white rounded-xl border border-gray-200 p-4 shadow-[0_1px_3px_rgba(0,0,0,0.04)]">
+                  <p className="text-sm text-gray-700">{insight}</p>
+                </div>
+              ))}
+            </div>
+
+            <div className="bg-white rounded-xl border border-gray-200 p-6 shadow-[0_1px_3px_rgba(0,0,0,0.04)] space-y-8">
+              {/* By Entry FPL */}
+              <div>
+                <h3 className="text-sm font-medium text-gray-900 mb-4 flex items-center gap-2">
+                  <Target className="h-4 w-4 text-gray-400" />
+                  Graduation Rate by Entry Income Level
+                </h3>
+                <div className="overflow-hidden rounded-lg border border-gray-200">
+                  <Table>
+                    <TableHeader>
+                      <TableRow className="bg-gray-50/50 border-b border-gray-200">
+                        <TableHead className="text-[11px] font-semibold uppercase tracking-[0.05em] text-gray-500">Entry FPL</TableHead>
+                        <TableHead className="text-[11px] font-semibold uppercase tracking-[0.05em] text-gray-500 text-right">Families</TableHead>
+                        <TableHead className="text-[11px] font-semibold uppercase tracking-[0.05em] text-gray-500 text-right">Graduates</TableHead>
+                        <TableHead className="text-[11px] font-semibold uppercase tracking-[0.05em] text-gray-500 text-right">Graduation Rate</TableHead>
+                      </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                      {successFactors.byEntryFpl.map((row: { bracket: string; families: number; graduates: number; graduationRate: number }) => (
+                        <TableRow key={row.bracket} className="border-b border-gray-100 last:border-0">
+                          <TableCell className="text-sm font-medium text-gray-900 py-3">{row.bracket}</TableCell>
+                          <TableCell className="text-sm text-gray-700 text-right tabular-nums py-3">{row.families}</TableCell>
+                          <TableCell className="text-sm text-gray-700 text-right tabular-nums py-3">{row.graduates}</TableCell>
+                          <TableCell className={`text-sm text-right tabular-nums font-semibold py-3 ${row.graduationRate >= 10 ? "text-[#8B9E8B]" : "text-gray-600"}`}>
+                            {row.graduationRate.toFixed(1)}%
+                          </TableCell>
+                        </TableRow>
+                      ))}
+                    </TableBody>
+                  </Table>
+                </div>
+              </div>
+
+              {/* By Household Size */}
+              <div>
+                <h3 className="text-sm font-medium text-gray-900 mb-4 flex items-center gap-2">
+                  <Home className="h-4 w-4 text-gray-400" />
+                  Graduation Rate by Household Size
+                </h3>
+                <div className="space-y-2">
+                  {successFactors.byHouseholdSize.map((row: { householdSize: number; families: number; graduates: number; graduationRate: number }) => {
+                    const maxRate = Math.max(...successFactors.byHouseholdSize.map((r: { graduationRate: number }) => r.graduationRate));
+                    const barWidth = maxRate > 0 ? (row.graduationRate / maxRate) * 100 : 0;
+                    return (
+                      <div key={row.householdSize} className="flex items-center gap-4">
+                        <div className="w-24 text-sm text-gray-500">{row.householdSize} people</div>
+                        <div className="flex-1 h-6 bg-gray-100 rounded overflow-hidden relative">
+                          <div
+                            className="h-full bg-[#8B9E8B] rounded transition-all duration-500"
+                            style={{ width: `${Math.max(barWidth, 5)}%` }}
+                          />
+                          <span className="absolute right-2 top-1/2 -translate-y-1/2 text-xs font-medium text-gray-600">
+                            n={row.families}
+                          </span>
+                        </div>
+                        <div className="w-20 text-sm text-right tabular-nums font-semibold">
+                          {row.graduationRate.toFixed(1)}%
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+
+              {/* By Duration */}
+              <div>
+                <h3 className="text-sm font-medium text-gray-900 mb-4 flex items-center gap-2">
+                  <Clock className="h-4 w-4 text-gray-400" />
+                  Graduation Rate by Time in Program
+                </h3>
+                <div className="space-y-2">
+                  {successFactors.byDuration.map((row: { duration: string; families: number; graduates: number; graduationRate: number }) => {
+                    const maxRate = Math.max(...successFactors.byDuration.map((r: { graduationRate: number }) => r.graduationRate));
+                    const barWidth = maxRate > 0 ? (row.graduationRate / maxRate) * 100 : 0;
+                    return (
+                      <div key={row.duration} className="flex items-center gap-4">
+                        <div className="w-24 text-sm text-gray-500">{row.duration}</div>
+                        <div className="flex-1 h-6 bg-gray-100 rounded overflow-hidden relative">
+                          <div
+                            className="h-full bg-gray-900 rounded transition-all duration-500"
+                            style={{ width: `${Math.max(barWidth, 5)}%` }}
+                          />
+                          <span className="absolute right-2 top-1/2 -translate-y-1/2 text-xs font-medium text-gray-600">
+                            n={row.families}
+                          </span>
+                        </div>
+                        <div className="w-20 text-sm text-right tabular-nums font-semibold">
+                          {row.graduationRate.toFixed(1)}%
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+                <div className="mt-4 p-4 bg-[#8B9E8B]/10 border border-[#8B9E8B]/30 rounded-lg flex items-start gap-3">
+                  <TrendingUp className="h-4 w-4 text-[#8B9E8B] mt-0.5 flex-shrink-0" />
+                  <p className="text-sm text-[#1E3A5F]">
+                    <strong>Optimal window:</strong> 12-18 months yields highest graduation rate (16%).
+                    Families under 6 months are still building momentum.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+        )}
+
         {/* Who Benefits Most */}
         <section>
           <div className="mb-4">

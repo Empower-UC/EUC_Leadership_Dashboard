@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-01-09T10:46:37.246581",
+    "generated_at": "2026-01-09T11:42:13.984434",
     "methodology_version": "1.0",
     "investment_denominator": 25000000,
     "discount_rate": 0.03,
     "data_source": "Longitudinal assessment data (first to last assessment comparison)"
   },
   "data_quality": {
-    "assessment_date": "2026-01-09T10:46:37.246587",
+    "assessment_date": "2026-01-09T11:42:13.984441",
     "data_sources": [
       "Processed longitudinal assessments",
       "Navigator Dashboard (FPL data)"
@@ -18,7 +18,7 @@
     "positive_rate_pct": 46.7
   },
   "measured_outcomes": {
-    "timestamp": "2026-01-09T10:46:37.246589",
+    "timestamp": "2026-01-09T11:42:13.984443",
     "methodology": "Observed data only, no projections",
     "all_participants": {
       "count_with_data": 751,
@@ -272,7 +272,7 @@
     }
   },
   "summary": {
-    "generated_at": "2026-01-09T10:46:37.246596",
+    "generated_at": "2026-01-09T11:42:13.984450",
     "data_basis": {
       "total_families_served": 940,
       "total_measured_wage_gains": 6401215.0,

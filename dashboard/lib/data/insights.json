@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T10:46:37.433492",
+  "generated_at": "2026-01-09T11:42:14.094954",
   "fplTerciles": [
     {
       "tercile": "Deep Poverty (<50%)",
@@ -152,5 +152,185 @@
   ],
   "employmentSubgroup": [],
   "avgDays": 282.0,
-  "avgFplChange": 23.7
+  "avgFplChange": 23.7,
+  "successFactors": {
+    "headline": "Success Predictors: Who Graduates?",
+    "totalGraduates": 79,
+    "overallGraduationRate": 8.4,
+    "byEntryFpl": [
+      {
+        "bracket": "Deep Poverty (<50%)",
+        "fplRange": "0-50%",
+        "families": 249,
+        "graduates": 8,
+        "graduationRate": 3.2,
+        "avgFplChange": 29.6
+      },
+      {
+        "bracket": "Poverty (50-100%)",
+        "fplRange": "50-100%",
+        "families": 278,
+        "graduates": 16,
+        "graduationRate": 5.8,
+        "avgFplChange": 27.3
+      },
+      {
+        "bracket": "Near Poverty (100-150%)",
+        "fplRange": "100-150%",
+        "families": 213,
+        "graduates": 21,
+        "graduationRate": 9.9,
+        "avgFplChange": 16.9
+      },
+      {
+        "bracket": "Above 150%",
+        "fplRange": "150-%",
+        "families": 90,
+        "graduates": 28,
+        "graduationRate": 31.1,
+        "avgFplChange": 8.9
+      }
+    ],
+    "byHouseholdSize": [
+      {
+        "householdSize": 2,
+        "families": 246,
+        "graduates": 33,
+        "graduationRate": 13.4,
+        "avgFplChange": 26.9
+      },
+      {
+        "householdSize": 3,
+        "families": 270,
+        "graduates": 24,
+        "graduationRate": 8.9,
+        "avgFplChange": 23.7
+      },
+      {
+        "householdSize": 4,
+        "families": 192,
+        "graduates": 6,
+        "graduationRate": 3.1,
+        "avgFplChange": 17.6
+      },
+      {
+        "householdSize": 5,
+        "families": 127,
+        "graduates": 6,
+        "graduationRate": 4.7,
+        "avgFplChange": 18.3
+      },
+      {
+        "householdSize": 6,
+        "families": 55,
+        "graduates": 3,
+        "graduationRate": 5.5,
+        "avgFplChange": 36.1
+      },
+      {
+        "householdSize": 7,
+        "families": 28,
+        "graduates": 1,
+        "graduationRate": 3.6,
+        "avgFplChange": 24.0
+      }
+    ],
+    "byDuration": [
+      {
+        "duration": "0-6 months",
+        "families": 247,
+        "graduates": 19,
+        "graduationRate": 7.7,
+        "avgFplChange": 11.1
+      },
+      {
+        "duration": "6-12 months",
+        "families": 205,
+        "graduates": 25,
+        "graduationRate": 12.2,
+        "avgFplChange": 27.6
+      },
+      {
+        "duration": "12-18 months",
+        "families": 181,
+        "graduates": 29,
+        "graduationRate": 16.0,
+        "avgFplChange": 35.8
+      },
+      {
+        "duration": "18+ months",
+        "families": 103,
+        "graduates": 3,
+        "graduationRate": 2.9,
+        "avgFplChange": 35.1
+      }
+    ],
+    "byCounty": [
+      {
+        "county": "Dekalb",
+        "families": 28,
+        "graduates": 5,
+        "graduationRate": 17.9
+      },
+      {
+        "county": "Cannon",
+        "families": 59,
+        "graduates": 9,
+        "graduationRate": 15.3
+      },
+      {
+        "county": "Fentress",
+        "families": 56,
+        "graduates": 7,
+        "graduationRate": 12.5
+      },
+      {
+        "county": "White",
+        "families": 78,
+        "graduates": 9,
+        "graduationRate": 11.5
+      },
+      {
+        "county": "Pickett",
+        "families": 29,
+        "graduates": 3,
+        "graduationRate": 10.3
+      },
+      {
+        "county": "Macon",
+        "families": 85,
+        "graduates": 8,
+        "graduationRate": 9.4
+      },
+      {
+        "county": "Cumberland",
+        "families": 79,
+        "graduates": 7,
+        "graduationRate": 8.9
+      },
+      {
+        "county": "Jackson",
+        "families": 26,
+        "graduates": 2,
+        "graduationRate": 7.7
+      },
+      {
+        "county": "Putnam",
+        "families": 192,
+        "graduates": 13,
+        "graduationRate": 6.8
+      },
+      {
+        "county": "Clay",
+        "families": 35,
+        "graduates": 2,
+        "graduationRate": 5.7
+      }
+    ],
+    "keyInsights": [
+      "Families entering at Above 150% have 31.1% graduation rate",
+      "Families staying 12-18 months have 16.0% graduation rate",
+      "Top county: Dekalb (17.9% graduation)"
+    ]
+  }
 }
