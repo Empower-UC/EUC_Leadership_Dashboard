@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-01-09T09:40:36.037890",
+  "totalParticipants": 940,
+  "totalChildren": 2040,
+  "outcomeBreakdown": [
+    {
+      "category": "graduated",
+      "count": 79,
+      "avgFplChange": 120.1,
+      "avgDays": 319.0
+    },
+    {
+      "category": "active",
+      "count": 217,
+      "avgFplChange": 12.9,
+      "avgDays": 179.0
+    },
+    {
+      "category": "exited",
+      "count": 9,
+      "avgFplChange": 42.7,
+      "avgDays": 568.0
+    },
+    {
+      "category": "dismissed",
+      "count": 435,
+      "avgFplChange": 12.1,
+      "avgDays": 256.0
+    },
+    {
+      "category": "withdrawn",
+      "count": 110,
+      "avgFplChange": 15.5,
+      "avgDays": 324.0
+    }
+  ],
+  "totalWageGains": 6401214.548,
+  "avgFplChange": 23.3,
+  "countyBreakdown": [
+    {
+      "county": "Putnam",
+      "count": 192
+    },
+    {
+      "county": "Warren",
+      "count": 88
+    },
+    {
+      "county": "Macon",
+      "count": 85
+    },
+    {
+      "county": "Cumberland",
+      "count": 79
+    },
+    {
+      "county": "White",
+      "count": 78
+    }
+  ],
+  "improvementRate": 45.5
+}

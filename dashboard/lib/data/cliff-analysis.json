@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-09",
+    "data_as_of": "January 09, 2026",
+    "families_analyzed": 777,
+    "total_participants": 940
+  },
+  "summary": {
+    "families_in_cliff_zone": 242,
+    "total_benefits_at_risk": 2900000,
+    "avg_exposure_per_family": 11983,
+    "children_at_risk": 473
+  },
+  "tiers": [
+    {
+      "id": "snap_tenncare",
+      "name": "SNAP/TennCare Cliff",
+      "range": "100-130%",
+      "fpl_low": 100,
+      "fpl_high": 130,
+      "families": 118,
+      "benefits_at_risk": 1274400,
+      "avg_per_family": 10800,
+      "children": 239,
+      "benefits_affected": [
+        "SNAP (~$4,800/yr)",
+        "TennCare adult (~$6,000/yr)"
+      ],
+      "color": "rose",
+      "risk_level": "high"
+    },
+    {
+      "id": "liheap_childcare",
+      "name": "LIHEAP/Childcare Cliff",
+      "range": "130-150%",
+      "fpl_low": 130,
+      "fpl_high": 150,
+      "families": 66,
+      "benefits_at_risk": 1161600,
+      "avg_per_family": 17600,
+      "children": 121,
+      "benefits_affected": [
+        "Childcare subsidy (~$6K/child)",
+        "LIHEAP (~$600/yr)"
+      ],
+      "color": "amber",
+      "risk_level": "high"
+    },
+    {
+      "id": "deep_cliff",
+      "name": "Deep Cliff Zone",
+      "range": "150-185%",
+      "fpl_low": 150,
+      "fpl_high": 185,
+      "families": 58,
+      "benefits_at_risk": 464000,
+      "avg_per_family": 8000,
+      "children": 113,
+      "benefits_affected": [
+        "Childcare loss imminent",
+        "School lunch reduction"
+      ],
+      "color": "orange",
+      "risk_level": "medium"
+    },
+    {
+      "id": "near_graduation",
+      "name": "Near Graduation",
+      "range": "185-225%",
+      "fpl_low": 185,
+      "fpl_high": 225,
+      "families": 28,
+      "benefits_at_risk": 0,
+      "avg_per_family": 0,
+      "children": 55,
+      "benefits_affected": [
+        "Minimal immediate risk",
+        "Focus on graduation"
+      ],
+      "color": "emerald",
+      "risk_level": "low"
+    }
+  ],
+  "county_concentration": {
+    "headline": "Cliff Risk by County",
+    "data": [
+      {
+        "county": "WHite",
+        "in_cliff_zone": 2,
+        "total": 2,
+        "cliff_pct": 100
+      },
+      {
+        "county": "Delalb",
+        "in_cliff_zone": 1,
+        "total": 1,
+        "cliff_pct": 100
+      },
+      {
+        "county": "Fentress",
+        "in_cliff_zone": 20,
+        "total": 47,
+        "cliff_pct": 42
+      },
+      {
+        "county": "Dekalb",
+        "in_cliff_zone": 10,
+        "total": 25,
+        "cliff_pct": 40
+      },
+      {
+        "county": "Macon",
+        "in_cliff_zone": 26,
+        "total": 70,
+        "cliff_pct": 37
+      },
+      {
+        "county": "Cannon",
+        "in_cliff_zone": 17,
+        "total": 48,
+        "cliff_pct": 35
+      },
+      {
+        "county": "Cumberland",
+        "in_cliff_zone": 23,
+        "total": 65,
+        "cliff_pct": 35
+      },
+      {
+        "county": "Smith",
+        "in_cliff_zone": 17,
+        "total": 50,
+        "cliff_pct": 34
+      },
+      {
+        "county": "White",
+        "in_cliff_zone": 23,
+        "total": 68,
+        "cliff_pct": 33
+      },
+      {
+        "county": "Putnam",
+        "in_cliff_zone": 52,
+        "total": 163,
+        "cliff_pct": 31
+      }
+    ]
+  },
+  "household_size_impact": {
+    "headline": "Larger Families Face Steeper Odds",
+    "data": [
+      {
+        "size": 2,
+        "graduation_rate": 15,
+        "sample_size": 208
+      },
+      {
+        "size": 3,
+        "graduation_rate": 10,
+        "sample_size": 225
+      },
+      {
+        "size": 4,
+        "graduation_rate": 3,
+        "sample_size": 160
+      },
+      {
+        "size": 5,
+        "graduation_rate": 5,
+        "sample_size": 112
+      }
+    ],
+    "insight": "Larger households face compounded childcare costs"
+  },
+  "navigator_actions": [
+    {
+      "priority": 1,
+      "action": "Address cliff fear with data",
+      "rationale": "Most families who cross cliffs continue upward",
+      "target": "All 242 cliff-zone families"
+    },
+    {
+      "priority": 2,
+      "action": "Extra support for large families",
+      "rationale": "Higher childcare costs compound cliff exposure",
+      "target": "Families with 4+ members"
+    }
+  ]
+}

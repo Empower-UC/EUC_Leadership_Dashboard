@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-01-09T09:40:36.116506",
+  "outcomeBreakdown": [
+    {
+      "category": "graduated",
+      "count": 79,
+      "avgFplChange": 120.1,
+      "avgWageChange": 35492.0,
+      "avgDays": 319.0
+    },
+    {
+      "category": "active",
+      "count": 217,
+      "avgFplChange": 12.9,
+      "avgWageChange": 5008.0,
+      "avgDays": 179.0
+    },
+    {
+      "category": "exited",
+      "count": 9,
+      "avgFplChange": 42.7,
+      "avgWageChange": 15785.0,
+      "avgDays": 568.0
+    },
+    {
+      "category": "dismissed",
+      "count": 435,
+      "avgFplChange": 12.1,
+      "avgWageChange": 1911.0,
+      "avgDays": 256.0
+    },
+    {
+      "category": "withdrawn",
+      "count": 110,
+      "avgFplChange": 15.5,
+      "avgWageChange": 4697.0,
+      "avgDays": 324.0
+    }
+  ],
+  "thresholdCrossings": [
+    {
+      "name": "Poverty Line",
+      "fpl": 100,
+      "benefit": "TennCare eligibility",
+      "startedBelow": 490,
+      "crossedUp": 121,
+      "crossedDown": 38,
+      "netMovement": 83
+    },
+    {
+      "name": "SNAP Cliff",
+      "fpl": 129,
+      "benefit": "SNAP benefits end",
+      "startedBelow": 615,
+      "crossedUp": 113,
+      "crossedDown": 18,
+      "netMovement": 95
+    },
+    {
+      "name": "TANF Cliff",
+      "fpl": 159,
+      "benefit": "TANF eligibility ends",
+      "startedBelow": 685,
+      "crossedUp": 85,
+      "crossedDown": 12,
+      "netMovement": 73
+    },
+    {
+      "name": "School Lunch",
+      "fpl": 184,
+      "benefit": "Free lunch ends",
+      "startedBelow": 713,
+      "crossedUp": 72,
+      "crossedDown": 3,
+      "netMovement": 69
+    },
+    {
+      "name": "Self-Sufficiency",
+      "fpl": 225,
+      "benefit": "EUC graduation",
+      "startedBelow": 731,
+      "crossedUp": 58,
+      "crossedDown": 0,
+      "netMovement": 58
+    }
+  ],
+  "fplBrackets": [
+    {
+      "bracket": "<100%",
+      "count": 442
+    },
+    {
+      "bracket": "100-150%",
+      "count": 184
+    },
+    {
+      "bracket": "150-200%",
+      "count": 71
+    },
+    {
+      "bracket": "200-250%",
+      "count": 50
+    },
+    {
+      "bracket": "250%+",
+      "count": 29
+    }
+  ],
+  "overallStats": {
+    "avgFplChange": 23.3,
+    "avgDays": 243.0,
+    "totalWageGains": 6401214.548,
+    "positiveChanges": 300,
+    "total": 940
+  }
+}

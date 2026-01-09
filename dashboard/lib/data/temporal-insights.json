@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-09T09:40:36.028008"
+  },
+  "tenure_analysis": {
+    "headline": "Progress by Time in Program",
+    "data": [
+      {
+        "bracket": "0-3 months",
+        "families": 115,
+        "graduates": 9,
+        "graduation_rate": 7.8,
+        "positive_income_change": 14,
+        "avg_income_change": 1476.0,
+        "count": 115,
+        "success_rate": 12.2,
+        "avg_wage_gain": 1476.0,
+        "avg_fpl_change": 6.8,
+        "avg_days": 33.0
+      },
+      {
+        "bracket": "3-6 months",
+        "families": 132,
+        "graduates": 10,
+        "graduation_rate": 7.6,
+        "positive_income_change": 34,
+        "avg_income_change": 4287.0,
+        "count": 132,
+        "success_rate": 25.8,
+        "avg_wage_gain": 4287.0,
+        "avg_fpl_change": 13.6,
+        "avg_days": 120.0
+      },
+      {
+        "bracket": "6-12 months",
+        "families": 202,
+        "graduates": 25,
+        "graduation_rate": 12.4,
+        "positive_income_change": 99,
+        "avg_income_change": 7319.0,
+        "count": 202,
+        "success_rate": 49.0,
+        "avg_wage_gain": 7319.0,
+        "avg_fpl_change": 27.8,
+        "avg_days": 266.0
+      },
+      {
+        "bracket": "12-18 months",
+        "families": 184,
+        "graduates": 29,
+        "graduation_rate": 15.8,
+        "positive_income_change": 123,
+        "avg_income_change": 9655.0,
+        "count": 184,
+        "success_rate": 66.8,
+        "avg_wage_gain": 9655.0,
+        "avg_fpl_change": 35.4,
+        "avg_days": 460.0
+      },
+      {
+        "bracket": "18+ months",
+        "families": 103,
+        "graduates": 3,
+        "graduation_rate": 2.9,
+        "positive_income_change": 68,
+        "avg_income_change": 9046.0,
+        "count": 103,
+        "success_rate": 66.0,
+        "avg_wage_gain": 9046.0,
+        "avg_fpl_change": 35.1,
+        "avg_days": 635.0
+      }
+    ],
+    "insight": "Longer tenure correlates with higher graduation rates"
+  },
+  "cohort_analysis": {
+    "headline": "Outcomes by Enrollment Year",
+    "data": [
+      {
+        "year": 2023,
+        "families": 454,
+        "graduates": 54,
+        "graduation_rate": 11.9,
+        "avg_income_change": 6471.0
+      },
+      {
+        "year": 2024,
+        "families": 217,
+        "graduates": 17,
+        "graduation_rate": 7.8,
+        "avg_income_change": 8528.0
+      },
+      {
+        "year": 2025,
+        "families": 189,
+        "graduates": 1,
+        "graduation_rate": 0.5,
+        "avg_income_change": 1253.0
+      }
+    ]
+  },
+  "key_findings": [
+    "Average time to graduation: 319 days",
+    "Families with 12+ months: 287"
+  ],
+  "cumulative_impact": [
+    {
+      "month": "2023-04",
+      "month_label": "Apr 2023",
+      "new_families": 1,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 1,
+      "cumulative_wage_gains": 0.0,
+      "avg_wage_per_family": 0.0
+    },
+    {
+      "month": "2023-05",
+      "month_label": "May 2023",
+      "new_families": 15,
+      "new_wage_gains": 96528.0,
+      "cumulative_families": 16,
+      "cumulative_wage_gains": 96528.0,
+      "avg_wage_per_family": 6033.0
+    },
+    {
+      "month": "2023-06",
+      "month_label": "Jun 2023",
+      "new_families": 1,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 17,
+      "cumulative_wage_gains": 96528.0,
+      "avg_wage_per_family": 5678.0
+    },
+    {
+      "month": "2023-07",
+      "month_label": "Jul 2023",
+      "new_families": 34,
+      "new_wage_gains": 252211.506,
+      "cumulative_families": 51,
+      "cumulative_wage_gains": 348739.506,
+      "avg_wage_per_family": 6838.0
+    },
+    {
+      "month": "2023-08",
+      "month_label": "Aug 2023",
+      "new_families": 223,
+      "new_wage_gains": 1949755.2859999998,
+      "cumulative_families": 274,
+      "cumulative_wage_gains": 2298494.792,
+      "avg_wage_per_family": 8389.0
+    },
+    {
+      "month": "2023-09",
+      "month_label": "Sep 2023",
+      "new_families": 62,
+      "new_wage_gains": 587804.52,
+      "cumulative_families": 336,
+      "cumulative_wage_gains": 2886299.312,
+      "avg_wage_per_family": 8590.0
+    },
+    {
+      "month": "2023-10",
+      "month_label": "Oct 2023",
+      "new_families": 51,
+      "new_wage_gains": 407031.91000000003,
+      "cumulative_families": 387,
+      "cumulative_wage_gains": 3293331.222,
+      "avg_wage_per_family": 8510.0
+    },
+    {
+      "month": "2023-11",
+      "month_label": "Nov 2023",
+      "new_families": 41,
+      "new_wage_gains": 254987.23,
+      "cumulative_families": 428,
+      "cumulative_wage_gains": 3548318.452,
+      "avg_wage_per_family": 8290.0
+    },
+    {
+      "month": "2023-12",
+      "month_label": "Dec 2023",
+      "new_families": 26,
+      "new_wage_gains": 296263.036,
+      "cumulative_families": 454,
+      "cumulative_wage_gains": 3844581.488,
+      "avg_wage_per_family": 8468.0
+    },
+    {
+      "month": "2024-01",
+      "month_label": "Jan 2024",
+      "new_families": 24,
+      "new_wage_gains": 184755.92,
+      "cumulative_families": 478,
+      "cumulative_wage_gains": 4029337.408,
+      "avg_wage_per_family": 8430.0
+    },
+    {
+      "month": "2024-02",
+      "month_label": "Feb 2024",
+      "new_families": 24,
+      "new_wage_gains": 153150.08000000002,
+      "cumulative_families": 502,
+      "cumulative_wage_gains": 4182487.488,
+      "avg_wage_per_family": 8332.0
+    },
+    {
+      "month": "2024-03",
+      "month_label": "Mar 2024",
+      "new_families": 44,
+      "new_wage_gains": 773843.8999999999,
+      "cumulative_families": 546,
+      "cumulative_wage_gains": 4956331.388,
+      "avg_wage_per_family": 9078.0
+    },
+    {
+      "month": "2024-04",
+      "month_label": "Apr 2024",
+      "new_families": 28,
+      "new_wage_gains": 272170.16000000003,
+      "cumulative_families": 574,
+      "cumulative_wage_gains": 5228501.548,
+      "avg_wage_per_family": 9109.0
+    },
+    {
+      "month": "2024-05",
+      "month_label": "May 2024",
+      "new_families": 41,
+      "new_wage_gains": 455915.12000000005,
+      "cumulative_families": 615,
+      "cumulative_wage_gains": 5684416.6680000005,
+      "avg_wage_per_family": 9243.0
+    },
+    {
+      "month": "2024-06",
+      "month_label": "Jun 2024",
+      "new_families": 48,
+      "new_wage_gains": 261822.28,
+      "cumulative_families": 663,
+      "cumulative_wage_gains": 5946238.948000001,
+      "avg_wage_per_family": 8969.0
+    },
+    {
+      "month": "2024-07",
+      "month_label": "Jul 2024",
+      "new_families": 7,
+      "new_wage_gains": 109690.51999999999,
+      "cumulative_families": 670,
+      "cumulative_wage_gains": 6055929.468,
+      "avg_wage_per_family": 9039.0
+    },
+    {
+      "month": "2024-08",
+      "month_label": "Aug 2024",
+      "new_families": 1,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 671,
+      "cumulative_wage_gains": 6055929.468,
+      "avg_wage_per_family": 9025.0
+    },
+    {
+      "month": "2025-03",
+      "month_label": "Mar 2025",
+      "new_families": 1,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 672,
+      "cumulative_wage_gains": 6055929.468,
+      "avg_wage_per_family": 9012.0
+    },
+    {
+      "month": "2025-04",
+      "month_label": "Apr 2025",
+      "new_families": 18,
+      "new_wage_gains": 91430.6,
+      "cumulative_families": 690,
+      "cumulative_wage_gains": 6147360.068,
+      "avg_wage_per_family": 8909.0
+    },
+    {
+      "month": "2025-05",
+      "month_label": "May 2025",
+      "new_families": 7,
+      "new_wage_gains": 53766.0,
+      "cumulative_families": 697,
+      "cumulative_wage_gains": 6201126.068,
+      "avg_wage_per_family": 8897.0
+    },
+    {
+      "month": "2025-06",
+      "month_label": "Jun 2025",
+      "new_families": 14,
+      "new_wage_gains": 14044.560000000001,
+      "cumulative_families": 711,
+      "cumulative_wage_gains": 6215170.628,
+      "avg_wage_per_family": 8741.0
+    },
+    {
+      "month": "2025-07",
+      "month_label": "Jul 2025",
+      "new_families": 19,
+      "new_wage_gains": 54044.88,
+      "cumulative_families": 730,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 8588.0
+    },
+    {
+      "month": "2025-08",
+      "month_label": "Aug 2025",
+      "new_families": 30,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 760,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 8249.0
+    },
+    {
+      "month": "2025-09",
+      "month_label": "Sep 2025",
+      "new_families": 24,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 784,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 7996.0
+    },
+    {
+      "month": "2025-10",
+      "month_label": "Oct 2025",
+      "new_families": 20,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 804,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 7798.0
+    },
+    {
+      "month": "2025-11",
+      "month_label": "Nov 2025",
+      "new_families": 18,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 822,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 7627.0
+    },
+    {
+      "month": "2025-12",
+      "month_label": "Dec 2025",
+      "new_families": 38,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 860,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 7290.0
+    },
+    {
+      "month": "2026-01",
+      "month_label": "Jan 2026",
+      "new_families": 2,
+      "new_wage_gains": 0.0,
+      "cumulative_families": 862,
+      "cumulative_wage_gains": 6269215.507999999,
+      "avg_wage_per_family": 7273.0
+    }
+  ]
+}

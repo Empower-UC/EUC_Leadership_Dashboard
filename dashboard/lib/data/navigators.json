@@ -1,0 +1,219 @@
+{
+  "generated_at": "2026-01-09T09:40:36.145849",
+  "navigatorStats": [
+    {
+      "navigatorName": "Jeremy Conner",
+      "familyCount": 11,
+      "graduatedCount": 5,
+      "avgFplChange": 94.5,
+      "totalWageGains": 243147.36599999998,
+      "avgDays": 490.0
+    },
+    {
+      "navigatorName": "Audri Bowman",
+      "familyCount": 27,
+      "graduatedCount": 4,
+      "avgFplChange": 61.4,
+      "totalWageGains": 490507.876,
+      "avgDays": 380.0
+    },
+    {
+      "navigatorName": "Regina Stowers",
+      "familyCount": 36,
+      "graduatedCount": 6,
+      "avgFplChange": 51.2,
+      "totalWageGains": 471769.176,
+      "avgDays": 381.0
+    },
+    {
+      "navigatorName": "Josh Yoder",
+      "familyCount": 5,
+      "graduatedCount": 0,
+      "avgFplChange": 48.8,
+      "totalWageGains": 62740.0,
+      "avgDays": 290.0
+    },
+    {
+      "navigatorName": "Casey Eschette",
+      "familyCount": 9,
+      "graduatedCount": 1,
+      "avgFplChange": 40.4,
+      "totalWageGains": 73756.0,
+      "avgDays": 32.0
+    },
+    {
+      "navigatorName": "Janna Palmer",
+      "familyCount": 32,
+      "graduatedCount": 5,
+      "avgFplChange": 34.9,
+      "totalWageGains": 325731.19,
+      "avgDays": 304.0
+    },
+    {
+      "navigatorName": "Debbie Mayberry",
+      "familyCount": 32,
+      "graduatedCount": 5,
+      "avgFplChange": 34.5,
+      "totalWageGains": 248121.32,
+      "avgDays": 348.0
+    },
+    {
+      "navigatorName": "Jodi Evans",
+      "familyCount": 32,
+      "graduatedCount": 3,
+      "avgFplChange": 30.1,
+      "totalWageGains": 323488.92,
+      "avgDays": 305.0
+    },
+    {
+      "navigatorName": "Caitlyn Like",
+      "familyCount": 26,
+      "graduatedCount": 1,
+      "avgFplChange": 29.7,
+      "totalWageGains": 167741.08000000002,
+      "avgDays": 351.0
+    },
+    {
+      "navigatorName": "Shelia Parris",
+      "familyCount": 22,
+      "graduatedCount": 3,
+      "avgFplChange": 28.6,
+      "totalWageGains": 222548.68,
+      "avgDays": 461.0
+    },
+    {
+      "navigatorName": "Paige Harris",
+      "familyCount": 5,
+      "graduatedCount": 2,
+      "avgFplChange": 28.2,
+      "totalWageGains": 34175.96,
+      "avgDays": 82.0
+    },
+    {
+      "navigatorName": "Adam Knepp",
+      "familyCount": 23,
+      "graduatedCount": 0,
+      "avgFplChange": 25.2,
+      "totalWageGains": 113915.23999999999,
+      "avgDays": 490.0
+    },
+    {
+      "navigatorName": "Marissa Alsteens",
+      "familyCount": 37,
+      "graduatedCount": 2,
+      "avgFplChange": 24.6,
+      "totalWageGains": 439073.56,
+      "avgDays": 425.0
+    },
+    {
+      "navigatorName": "Deborah Goodwin",
+      "familyCount": 23,
+      "graduatedCount": 3,
+      "avgFplChange": 24.5,
+      "totalWageGains": 263460.64,
+      "avgDays": 256.0
+    },
+    {
+      "navigatorName": "Slaton Wheeler",
+      "familyCount": 104,
+      "graduatedCount": 11,
+      "avgFplChange": 23.4,
+      "totalWageGains": 804482.7300000001,
+      "avgDays": 106.0
+    },
+    {
+      "navigatorName": "Cortlind McCutcheon",
+      "familyCount": 33,
+      "graduatedCount": 6,
+      "avgFplChange": 23.2,
+      "totalWageGains": 321560.30999999994,
+      "avgDays": 277.0
+    },
+    {
+      "navigatorName": "Cammie West",
+      "familyCount": 23,
+      "graduatedCount": 0,
+      "avgFplChange": 22.8,
+      "totalWageGains": 202473.41,
+      "avgDays": 242.0
+    },
+    {
+      "navigatorName": "Audri Smith",
+      "familyCount": 11,
+      "graduatedCount": 1,
+      "avgFplChange": 20.1,
+      "totalWageGains": 71728.0,
+      "avgDays": 220.0
+    },
+    {
+      "navigatorName": "Kylie Medley",
+      "familyCount": 40,
+      "graduatedCount": 0,
+      "avgFplChange": 16.2,
+      "totalWageGains": 230884.04,
+      "avgDays": 315.0
+    },
+    {
+      "navigatorName": "Kelli Norris",
+      "familyCount": 37,
+      "graduatedCount": 5,
+      "avgFplChange": 11.7,
+      "totalWageGains": 276436.11,
+      "avgDays": 333.0
+    },
+    {
+      "navigatorName": "Krystyna Wheeler",
+      "familyCount": 23,
+      "graduatedCount": 1,
+      "avgFplChange": 10.1,
+      "totalWageGains": 92902.4,
+      "avgDays": 257.0
+    },
+    {
+      "navigatorName": "Amy Wright",
+      "familyCount": 29,
+      "graduatedCount": 0,
+      "avgFplChange": 8.9,
+      "totalWageGains": 184937.0,
+      "avgDays": 356.0
+    },
+    {
+      "navigatorName": "Joshua Yoder",
+      "familyCount": 23,
+      "graduatedCount": 0,
+      "avgFplChange": 7.9,
+      "totalWageGains": 155478.76,
+      "avgDays": 423.0
+    },
+    {
+      "navigatorName": "Jeannie Tinnon",
+      "familyCount": 63,
+      "graduatedCount": 5,
+      "avgFplChange": 7.1,
+      "totalWageGains": 241105.41999999998,
+      "avgDays": 200.0
+    },
+    {
+      "navigatorName": "Joseph Foutch",
+      "familyCount": 20,
+      "graduatedCount": 0,
+      "avgFplChange": 4.7,
+      "totalWageGains": 90819.2,
+      "avgDays": 316.0
+    },
+    {
+      "navigatorName": "SLaton Wheeler",
+      "familyCount": 22,
+      "graduatedCount": 0,
+      "avgFplChange": -4.4,
+      "totalWageGains": 11676.0,
+      "avgDays": 101.0
+    }
+  ],
+  "overallStats": {
+    "avgFamiliesPerNav": 16.4,
+    "avgFplChange": 24.1,
+    "avgGraduationRate": 9.3
+  },
+  "totalNavigators": 48
+}

@@ -1,0 +1,1205 @@
+{
+  "generated_at": "2026-01-07T17:12:24.496518",
+  "total_participants": 880,
+  "participants_with_outcomes": 79,
+  "cohort_comparison": {
+    "accelerators": {
+      "count": 19,
+      "avg_fpl_change": 1.0729261490578947,
+      "avg_wage_gain": 35835.3052631579,
+      "avg_days": 586.2105263157895,
+      "avg_start_fpl": 0.6397933029347368
+    },
+    "decelerators": {
+      "count": 29,
+      "avg_fpl_change": -0.21778674470443876,
+      "avg_wage_gain": -5922.532413793104,
+      "avg_days": 468.82758620689657,
+      "avg_start_fpl": 1.0295989382951725
+    },
+    "middle": {
+      "count": 31,
+      "avg_fpl_change": 0.3554422829723617,
+      "avg_wage_gain": 9900.255384615386
+    },
+    "thresholds": {
+      "wage_75th": 18399.0,
+      "wage_25th": -666.0
+    }
+  },
+  "barrier_analysis": [
+    {
+      "barrier": "Childcare issues",
+      "count": 438,
+      "prevalence": 49.77272727272727,
+      "drag_coefficient": 8500,
+      "resolution_cost": 6000,
+      "roi_ratio": 1.4166666666666667,
+      "leverage_score": 0.7051136363636364
+    },
+    {
+      "barrier": "Transportation issues",
+      "count": 128,
+      "prevalence": 14.545454545454545,
+      "drag_coefficient": 6200,
+      "resolution_cost": 3500,
+      "roi_ratio": 1.7714285714285714,
+      "leverage_score": 0.25766233766233765
+    },
+    {
+      "barrier": "Physical or Mental Health Related issues",
+      "count": 80,
+      "prevalence": 9.090909090909092,
+      "drag_coefficient": 5800,
+      "resolution_cost": 5000,
+      "roi_ratio": 1.16,
+      "leverage_score": 0.10545454545454545
+    },
+    {
+      "barrier": "Problems with Job Skills",
+      "count": 68,
+      "prevalence": 7.727272727272727,
+      "drag_coefficient": 3200,
+      "resolution_cost": 2500,
+      "roi_ratio": 1.28,
+      "leverage_score": 0.0989090909090909
+    },
+    {
+      "barrier": "Attending school or training",
+      "count": 150,
+      "prevalence": 17.045454545454543,
+      "drag_coefficient": -2000,
+      "resolution_cost": 4000,
+      "roi_ratio": 0.5,
+      "leverage_score": 0.08522727272727272
+    },
+    {
+      "barrier": "Housing issues",
+      "count": 85,
+      "prevalence": 9.659090909090908,
+      "drag_coefficient": 4500,
+      "resolution_cost": 8000,
+      "roi_ratio": 0.5625,
+      "leverage_score": 0.05433238636363636
+    },
+    {
+      "barrier": "Problems with Basic Skills",
+      "count": 19,
+      "prevalence": 2.159090909090909,
+      "drag_coefficient": 4000,
+      "resolution_cost": 2000,
+      "roi_ratio": 2.0,
+      "leverage_score": 0.04318181818181818
+    }
+  ],
+  "barrier_combinations": [
+    {
+      "barriers": [
+        "Childcare issues",
+        "Transportation issues"
+      ],
+      "count": 69
+    },
+    {
+      "barriers": [
+        "Attending school or training",
+        "Childcare issues"
+      ],
+      "count": 45
+    },
+    {
+      "barriers": [
+        "Childcare issues",
+        "Physical or Mental Health Related issues"
+      ],
+      "count": 30
+    },
+    {
+      "barriers": [
+        "Childcare issues",
+        "Other"
+      ],
+      "count": 29
+    },
+    {
+      "barriers": [
+        "Childcare issues",
+        "Problems with Job Skills"
+      ],
+      "count": 22
+    }
+  ],
+  "navigator_performance": [
+    {
+      "navigator": "Marissa Alsteens",
+      "caseload": 14,
+      "positive_wage_count": 9,
+      "success_rate": 64.28571428571429,
+      "avg_wage_gain": 27976.28888888889,
+      "avg_fpl_change": 0.9113074258077778,
+      "avg_days": 363.07142857142856,
+      "velocity_score": 7684.2857454275945
+    },
+    {
+      "navigator": "Audri Bowman",
+      "caseload": 6,
+      "positive_wage_count": 3,
+      "success_rate": 50.0,
+      "avg_wage_gain": 21720.75,
+      "avg_fpl_change": 0.55929557864,
+      "avg_days": 423.5,
+      "velocity_score": 5116.78445229682
+    },
+    {
+      "navigator": "Adam Knepp",
+      "caseload": 8,
+      "positive_wage_count": 4,
+      "success_rate": 50.0,
+      "avg_wage_gain": 21136.09142857143,
+      "avg_fpl_change": 0.5855472335285714,
+      "avg_days": 622.125,
+      "velocity_score": 3391.9504800114637
+    },
+    {
+      "navigator": "Amy Wright",
+      "caseload": 12,
+      "positive_wage_count": 3,
+      "success_rate": 25.0,
+      "avg_wage_gain": 19484.0,
+      "avg_fpl_change": 0.6436991755333333,
+      "avg_days": 194.58333333333334,
+      "velocity_score": 9961.99403493822
+    },
+    {
+      "navigator": "Joshua Yoder",
+      "caseload": 3,
+      "positive_wage_count": 2,
+      "success_rate": 66.66666666666666,
+      "avg_wage_gain": 18708.0,
+      "avg_fpl_change": 0.582629151046,
+      "avg_days": 483.3333333333333,
+      "velocity_score": 3862.6290433585687
+    },
+    {
+      "navigator": "Caitlyn Like",
+      "caseload": 9,
+      "positive_wage_count": 2,
+      "success_rate": 22.22222222222222,
+      "avg_wage_gain": 18474.0,
+      "avg_fpl_change": 0.55210529175,
+      "avg_days": 234.55555555555554,
+      "velocity_score": 7842.735849056604
+    },
+    {
+      "navigator": "Regina Stowers",
+      "caseload": 13,
+      "positive_wage_count": 4,
+      "success_rate": 30.76923076923077,
+      "avg_wage_gain": 11767.866666666667,
+      "avg_fpl_change": 0.3377743945439681,
+      "avg_days": 306.2307692307692,
+      "velocity_score": 3830.3021198464367
+    },
+    {
+      "navigator": "Jeannie Tinnon",
+      "caseload": 7,
+      "positive_wage_count": 2,
+      "success_rate": 28.57142857142857,
+      "avg_wage_gain": 7756.0,
+      "avg_fpl_change": 0.056361991240000006,
+      "avg_days": 398.42857142857144,
+      "velocity_score": 1941.7739628040056
+    },
+    {
+      "navigator": "Kylie Medley",
+      "caseload": 23,
+      "positive_wage_count": 5,
+      "success_rate": 21.73913043478261,
+      "avg_wage_gain": 7096.75,
+      "avg_fpl_change": 0.3049177074349678,
+      "avg_days": 303.0,
+      "velocity_score": 2334.457236842105
+    },
+    {
+      "navigator": "Janna Palmer",
+      "caseload": 18,
+      "positive_wage_count": 3,
+      "success_rate": 16.666666666666664,
+      "avg_wage_gain": 5051.5,
+      "avg_fpl_change": 0.147457065065,
+      "avg_days": 204.94444444444446,
+      "velocity_score": 2452.8459670892903
+    },
+    {
+      "navigator": "Joseph Foutch",
+      "caseload": 4,
+      "positive_wage_count": 1,
+      "success_rate": 25.0,
+      "avg_wage_gain": 3792.0,
+      "avg_fpl_change": 0.19254769565,
+      "avg_days": 424.5,
+      "velocity_score": 891.186839012926
+    },
+    {
+      "navigator": "Cortlind McCutcheon",
+      "caseload": 17,
+      "positive_wage_count": 3,
+      "success_rate": 17.647058823529413,
+      "avg_wage_gain": 3371.3333333333335,
+      "avg_fpl_change": 0.11465412384166668,
+      "avg_days": 171.88235294117646,
+      "velocity_score": 1950.0737212203699
+    },
+    {
+      "navigator": "Kelli Norris",
+      "caseload": 10,
+      "positive_wage_count": 1,
+      "success_rate": 10.0,
+      "avg_wage_gain": 2081.25,
+      "avg_fpl_change": 0.036750289710000016,
+      "avg_days": 149.8,
+      "velocity_score": 1380.1392572944296
+    },
+    {
+      "navigator": "Jodi Evans",
+      "caseload": 4,
+      "positive_wage_count": 0,
+      "success_rate": 0.0,
+      "avg_wage_gain": 0,
+      "avg_fpl_change": 0,
+      "avg_days": 139.75,
+      "velocity_score": 0
+    },
+    {
+      "navigator": "Cammie West",
+      "caseload": 16,
+      "positive_wage_count": 3,
+      "success_rate": 18.75,
+      "avg_wage_gain": -2650.0628571428574,
+      "avg_fpl_change": -0.08521105865999996,
+      "avg_days": 225.875,
+      "velocity_score": -1168.071782762692
+    },
+    {
+      "navigator": "Debbie Mayberry",
+      "caseload": 7,
+      "positive_wage_count": 0,
+      "success_rate": 0.0,
+      "avg_wage_gain": -13200.0,
+      "avg_fpl_change": 0.05290357433333329,
+      "avg_days": 269.85714285714283,
+      "velocity_score": -4873.417721518988
+    },
+    {
+      "navigator": "Shelia Parris",
+      "caseload": 5,
+      "positive_wage_count": 0,
+      "success_rate": 0.0,
+      "avg_wage_gain": -17130.0,
+      "avg_fpl_change": -0.6784090533,
+      "avg_days": 219.8,
+      "velocity_score": -7758.152173913044
+    }
+  ],
+  "geography_analysis": [
+    {
+      "county": "Smith",
+      "count": 14,
+      "success_rate": 64.28571428571429,
+      "avg_wage_gain": 27976.28888888889,
+      "avg_fpl_change": 0.9113074258077778
+    },
+    {
+      "county": "Jackson",
+      "count": 8,
+      "success_rate": 37.5,
+      "avg_wage_gain": 21720.75,
+      "avg_fpl_change": 0.55929557864
+    },
+    {
+      "county": "Overton",
+      "count": 12,
+      "success_rate": 25.0,
+      "avg_wage_gain": 19484.0,
+      "avg_fpl_change": 0.6436991755333333
+    },
+    {
+      "county": "Cumberland",
+      "count": 10,
+      "success_rate": 20.0,
+      "avg_wage_gain": 18474.0,
+      "avg_fpl_change": 0.55210529175
+    },
+    {
+      "county": "Putnam",
+      "count": 30,
+      "success_rate": 23.333333333333332,
+      "avg_wage_gain": 14899.51076923077,
+      "avg_fpl_change": 0.416237699664
+    },
+    {
+      "county": "Fentress",
+      "count": 13,
+      "success_rate": 30.76923076923077,
+      "avg_wage_gain": 11767.866666666667,
+      "avg_fpl_change": 0.3377743945439681
+    },
+    {
+      "county": "DeKalb",
+      "count": 8,
+      "success_rate": 12.5,
+      "avg_wage_gain": 10572.0,
+      "avg_fpl_change": 0.1608411765
+    },
+    {
+      "county": "Clay",
+      "count": 7,
+      "success_rate": 28.57142857142857,
+      "avg_wage_gain": 7756.0,
+      "avg_fpl_change": 0.056361991240000006
+    },
+    {
+      "county": "Warren",
+      "count": 23,
+      "success_rate": 21.73913043478261,
+      "avg_wage_gain": 7096.75,
+      "avg_fpl_change": 0.3049177074349678
+    },
+    {
+      "county": "Cannon",
+      "count": 17,
+      "success_rate": 17.647058823529413,
+      "avg_wage_gain": 3371.3333333333335,
+      "avg_fpl_change": 0.11465412384166668
+    },
+    {
+      "county": "Dekalb",
+      "count": 10,
+      "success_rate": 20.0,
+      "avg_wage_gain": 3211.3333333333335,
+      "avg_fpl_change": 0.14299569458666667
+    },
+    {
+      "county": "Macon",
+      "count": 16,
+      "success_rate": 18.75,
+      "avg_wage_gain": -2650.0628571428574,
+      "avg_fpl_change": -0.08521105865999996
+    },
+    {
+      "county": "White",
+      "count": 11,
+      "success_rate": 9.090909090909092,
+      "avg_wage_gain": -3004.8,
+      "avg_fpl_change": 0.13270021508571425
+    },
+    {
+      "county": "Pickett",
+      "count": 5,
+      "success_rate": 0.0,
+      "avg_wage_gain": -17130.0,
+      "avg_fpl_change": -0.6784090533
+    }
+  ],
+  "start_point_analysis": [
+    {
+      "bracket": "Deep Poverty (<50%)",
+      "count": 161,
+      "success_rate": 24.84472049689441,
+      "avg_wage_gain": 9264.744347826087,
+      "avg_fpl_change": 0.28313688846370927
+    }
+  ],
+  "intervention_analysis": [
+    {
+      "type": "Employment Milestone",
+      "count": 281,
+      "total_spend": 63000.0,
+      "avg_spend": 224.19928825622776
+    },
+    {
+      "type": "Prof Dev Training",
+      "count": 148,
+      "total_spend": 21391.0,
+      "avg_spend": 144.53378378378378
+    },
+    {
+      "type": "Emergency Support",
+      "count": 102,
+      "total_spend": 37247.46,
+      "avg_spend": 365.17117647058825
+    },
+    {
+      "type": "Education Milestone",
+      "count": 81,
+      "total_spend": 25547.0,
+      "avg_spend": 315.39506172839504
+    },
+    {
+      "type": "Transportation Assistance",
+      "count": 75,
+      "total_spend": 6675.0,
+      "avg_spend": 89.0
+    },
+    {
+      "type": "Training & Employment Supplies",
+      "count": 42,
+      "total_spend": 12189.94,
+      "avg_spend": 290.2366666666667
+    },
+    {
+      "type": "Car Repair",
+      "count": 32,
+      "total_spend": 25865.97,
+      "avg_spend": 808.3115625
+    },
+    {
+      "type": "Individual Development Account",
+      "count": 17,
+      "total_spend": 15190.0,
+      "avg_spend": 893.5294117647059
+    },
+    {
+      "type": "Education & Training Expenses",
+      "count": 16,
+      "total_spend": 8757.39,
+      "avg_spend": 547.336875
+    },
+    {
+      "type": "Youth Engagement",
+      "count": 8,
+      "total_spend": 3137.99,
+      "avg_spend": 392.24875
+    },
+    {
+      "type": "Financial Literacy",
+      "count": 8,
+      "total_spend": 575.0,
+      "avg_spend": 71.875
+    },
+    {
+      "type": "Childcare Assistance",
+      "count": 6,
+      "total_spend": 4895.5,
+      "avg_spend": 815.9166666666666
+    },
+    {
+      "type": "Car Insurance",
+      "count": 4,
+      "total_spend": 1250.0,
+      "avg_spend": 312.5
+    },
+    {
+      "type": "Credit Recovery",
+      "count": 2,
+      "total_spend": 1188.56,
+      "avg_spend": 594.28
+    }
+  ],
+  "investment_theses": [
+    {
+      "id": 1,
+      "title": "Success Dividend",
+      "insight": "Accelerators earn $41,758 more annually than Decelerators.",
+      "metric": "$41,758",
+      "metric_label": "wage differential",
+      "detail": "Top 25% avg $35,835/yr vs bottom tier $-5,923/yr. Targeted support moves families up.",
+      "color": "emerald"
+    },
+    {
+      "id": 2,
+      "title": "Transportation Multiplier",
+      "insight": "107 families received transportation support averaging $304.",
+      "metric": "107",
+      "metric_label": "interventions",
+      "detail": "Total $32,541 invested. Childcare + Transport are the highest-leverage barriers.",
+      "color": "indigo"
+    },
+    {
+      "id": 3,
+      "title": "Deep Poverty ROI",
+      "insight": "Families starting below 50% FPL show 25% positive wage change rate.",
+      "metric": "25%",
+      "metric_label": "success rate",
+      "detail": "161 families in deep poverty. Avg wage gain: $9,265.",
+      "color": "amber"
+    },
+    {
+      "id": 4,
+      "title": "Navigator Variance",
+      "insight": "Top navigator achieves $27,976 avg gain vs $-17,130 for lowest.",
+      "metric": "27976.3x",
+      "metric_label": "performance gap",
+      "detail": "Best practices from top performers can be systematized.",
+      "color": "violet"
+    }
+  ],
+  "scatter_data": [
+    {
+      "id": "0",
+      "risk_score": 66.65637158301556,
+      "wage_gain": -2074.0,
+      "fpl_change": -0.07782363977,
+      "start_fpl": 1.049981238,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "2",
+      "risk_score": 66.7441377547612,
+      "wage_gain": 0.0,
+      "fpl_change": -0.0545252892,
+      "start_fpl": 0.3732503888,
+      "county": "Clay",
+      "navigator": "Jeannie Tinnon"
+    },
+    {
+      "id": "3",
+      "risk_score": 66.85931185647662,
+      "wage_gain": -4020.0,
+      "fpl_change": -0.1508442777,
+      "start_fpl": 0.8105065666,
+      "county": "White",
+      "navigator": "Joseph Foutch"
+    },
+    {
+      "id": "4",
+      "risk_score": 69.92872783902273,
+      "wage_gain": 1829.0,
+      "fpl_change": 0.068630394,
+      "start_fpl": 1.423114447,
+      "county": "Fentress",
+      "navigator": "Regina Stowers"
+    },
+    {
+      "id": "7",
+      "risk_score": 66.79709603795571,
+      "wage_gain": 35664.0,
+      "fpl_change": 1.064252284,
+      "start_fpl": 0.8009269988,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "8",
+      "risk_score": 61.547056579715445,
+      "wage_gain": 21860.0,
+      "fpl_change": 0.8202626642,
+      "start_fpl": 0.03752345216,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "11",
+      "risk_score": 68.49283043619813,
+      "wage_gain": -684.0,
+      "fpl_change": -0.03234042553,
+      "start_fpl": 1.280567376,
+      "county": "Putnam",
+      "navigator": "Kelli Norris"
+    },
+    {
+      "id": "12",
+      "risk_score": 66.18119161763859,
+      "wage_gain": -26400.0,
+      "fpl_change": -0.990619137,
+      "start_fpl": 0.990619137,
+      "county": "White",
+      "navigator": "Debbie Mayberry"
+    },
+    {
+      "id": "16",
+      "risk_score": 66.3773034179465,
+      "wage_gain": -7680.0,
+      "fpl_change": -0.2881801126,
+      "start_fpl": 1.008630394,
+      "county": "Jackson",
+      "navigator": "Audri Bowman"
+    },
+    {
+      "id": "17",
+      "risk_score": 67.97074109119069,
+      "wage_gain": 0.0,
+      "fpl_change": 0.0,
+      "start_fpl": 0.1350844278,
+      "county": "Clay",
+      "navigator": "Jeannie Tinnon"
+    },
+    {
+      "id": "19",
+      "risk_score": 68.03436502885415,
+      "wage_gain": 15396.0,
+      "fpl_change": 0.7279432624,
+      "start_fpl": 1.475177305,
+      "county": "White",
+      "navigator": "Joseph Foutch"
+    },
+    {
+      "id": "21",
+      "risk_score": 72.20196201912384,
+      "wage_gain": 37188.0,
+      "fpl_change": 1.156702955,
+      "start_fpl": 0.0,
+      "county": "Putnam",
+      "navigator": "Joshua Yoder"
+    },
+    {
+      "id": "22",
+      "risk_score": 70.02527517608195,
+      "wage_gain": 6408.0,
+      "fpl_change": 0.2404502814,
+      "start_fpl": 0.4966604128,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "23",
+      "risk_score": 67.6961939894626,
+      "wage_gain": 41855.0,
+      "fpl_change": 0.9699884125,
+      "start_fpl": 0.9785399768,
+      "county": "Jackson",
+      "navigator": "Audri Bowman"
+    },
+    {
+      "id": "27",
+      "risk_score": 64.44271458030799,
+      "wage_gain": -16260.0,
+      "fpl_change": -0.5057542768,
+      "start_fpl": 0.5057542768,
+      "county": "Pickett",
+      "navigator": "Shelia Parris"
+    },
+    {
+      "id": "29",
+      "risk_score": 63.1934634948564,
+      "wage_gain": 7908.0,
+      "fpl_change": 0.06609307715,
+      "start_fpl": 0.9853810264,
+      "county": "Dekalb",
+      "navigator": "Janna Palmer"
+    },
+    {
+      "id": "30",
+      "risk_score": 68.17848612447207,
+      "wage_gain": -3400.0,
+      "fpl_change": -0.1607565012,
+      "start_fpl": 1.182033097,
+      "county": "Clay",
+      "navigator": "Jeannie Tinnon"
+    },
+    {
+      "id": "31",
+      "risk_score": 72.40300742944346,
+      "wage_gain": -3360.0,
+      "fpl_change": -0.1260787992,
+      "start_fpl": 1.296810507,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "33",
+      "risk_score": 67.71435472834081,
+      "wage_gain": 8400.0,
+      "fpl_change": 0.3971631206,
+      "start_fpl": 0.0,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "36",
+      "risk_score": 66.93431590168413,
+      "wage_gain": 34176.0,
+      "fpl_change": 1.063017107,
+      "start_fpl": 0.6270606532,
+      "county": "Jackson",
+      "navigator": "Audri Bowman"
+    },
+    {
+      "id": "42",
+      "risk_score": 69.49457683519074,
+      "wage_gain": 20544.0,
+      "fpl_change": 0.9713475177,
+      "start_fpl": 0.6008510638,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "47",
+      "risk_score": 61.571444767362564,
+      "wage_gain": 19188.0,
+      "fpl_change": 0.72,
+      "start_fpl": 0.5403377111,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "48",
+      "risk_score": 66.03218931889903,
+      "wage_gain": 45247.2,
+      "fpl_change": 1.201784861,
+      "start_fpl": 0.8880956175,
+      "county": "Fentress",
+      "navigator": "Regina Stowers"
+    },
+    {
+      "id": "49",
+      "risk_score": 69.09122618350138,
+      "wage_gain": 228.0,
+      "fpl_change": 0.008555347092,
+      "start_fpl": 1.393170732,
+      "county": "Putnam",
+      "navigator": "Joshua Yoder"
+    },
+    {
+      "id": "51",
+      "risk_score": 70.62006821854506,
+      "wage_gain": -612.0,
+      "fpl_change": -0.02893617021,
+      "start_fpl": 1.404255319,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "53",
+      "risk_score": 66.33220459805673,
+      "wage_gain": 4968.0,
+      "fpl_change": 0.1319521912,
+      "start_fpl": 0.8433466135,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "58",
+      "risk_score": 68.49650968627891,
+      "wage_gain": 0.0,
+      "fpl_change": 0.0,
+      "start_fpl": 1.858723404,
+      "county": "Cannon",
+      "navigator": "Cortlind McCutcheon"
+    },
+    {
+      "id": "59",
+      "risk_score": 68.29197549234092,
+      "wage_gain": 27072.0,
+      "fpl_change": 0.9838186291,
+      "start_fpl": 0.828685259,
+      "county": "Overton",
+      "navigator": "Amy Wright"
+    },
+    {
+      "id": "62",
+      "risk_score": 70.53695195596184,
+      "wage_gain": 1860.0,
+      "fpl_change": 0.3773581614,
+      "start_fpl": 0.4669418386,
+      "county": "Dekalb",
+      "navigator": "Janna Palmer"
+    },
+    {
+      "id": "64",
+      "risk_score": 62.83951926679458,
+      "wage_gain": -18000.0,
+      "fpl_change": -0.8510638298,
+      "start_fpl": 0.8510638298,
+      "county": "Pickett",
+      "navigator": "Shelia Parris"
+    },
+    {
+      "id": "67",
+      "risk_score": 69.48480467326881,
+      "wage_gain": 11076.0,
+      "fpl_change": 0.3445101089,
+      "start_fpl": 1.119751166,
+      "county": "Cannon",
+      "navigator": "Cortlind McCutcheon"
+    },
+    {
+      "id": "69",
+      "risk_score": 61.250914757156714,
+      "wage_gain": 0.0,
+      "fpl_change": 0.0,
+      "start_fpl": 0.7957698289,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "70",
+      "risk_score": 59.9666280417,
+      "wage_gain": 16044.0,
+      "fpl_change": 0.3718192352,
+      "start_fpl": 0.111239861,
+      "county": "Overton",
+      "navigator": "Amy Wright"
+    },
+    {
+      "id": "77",
+      "risk_score": 64.92402177080926,
+      "wage_gain": 15336.0,
+      "fpl_change": 0.5754596623,
+      "start_fpl": 0.6538086304,
+      "county": "Overton",
+      "navigator": "Amy Wright"
+    },
+    {
+      "id": "78",
+      "risk_score": 63.492574179043295,
+      "wage_gain": 0.0,
+      "fpl_change": 0.0,
+      "start_fpl": 1.306376361,
+      "county": "Cannon",
+      "navigator": "Cortlind McCutcheon"
+    },
+    {
+      "id": "80",
+      "risk_score": 70.7964570960129,
+      "wage_gain": 17112.0,
+      "fpl_change": 0.8090780142,
+      "start_fpl": 0.8510638298,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "81",
+      "risk_score": 70.08524115260886,
+      "wage_gain": 39144.0,
+      "fpl_change": 1.468818011,
+      "start_fpl": 0.3984990619,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "82",
+      "risk_score": 62.23915813864449,
+      "wage_gain": -2400.0,
+      "fpl_change": -0.09005628518,
+      "start_fpl": 1.440900563,
+      "county": "Putnam",
+      "navigator": "Kelli Norris"
+    },
+    {
+      "id": "83",
+      "risk_score": 70.45308785981926,
+      "wage_gain": -12694.44,
+      "fpl_change": -0.6002099291,
+      "start_fpl": 1.613617021,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "85",
+      "risk_score": 63.29495349919787,
+      "wage_gain": 14664.0,
+      "fpl_change": 0.9048059292,
+      "start_fpl": 0.8132082552,
+      "county": "Fentress",
+      "navigator": "Regina Stowers"
+    },
+    {
+      "id": "86",
+      "risk_score": 67.18035686405413,
+      "wage_gain": -134.0,
+      "fpl_change": -0.01446415479,
+      "start_fpl": 0.07465007776,
+      "county": "Dekalb",
+      "navigator": "Janna Palmer"
+    },
+    {
+      "id": "92",
+      "risk_score": 66.18089310114114,
+      "wage_gain": 13032.0,
+      "fpl_change": 0.3461354582,
+      "start_fpl": 0.6374501992,
+      "county": "Putnam",
+      "navigator": "Kelli Norris"
+    },
+    {
+      "id": "93",
+      "risk_score": 67.82979694646096,
+      "wage_gain": 17280.0,
+      "fpl_change": 0.6484052533,
+      "start_fpl": 0.5853658537,
+      "county": "Cumberland",
+      "navigator": "Caitlyn Like"
+    },
+    {
+      "id": "94",
+      "risk_score": 70.51157833490234,
+      "wage_gain": 11580.0,
+      "fpl_change": 0.434521576,
+      "start_fpl": 1.03564728,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "99",
+      "risk_score": 69.67687179759704,
+      "wage_gain": -5388.0,
+      "fpl_change": -0.254751773,
+      "start_fpl": 1.415035461,
+      "county": "Fentress",
+      "navigator": "Regina Stowers"
+    },
+    {
+      "id": "101",
+      "risk_score": 68.7716579240941,
+      "wage_gain": 28848.0,
+      "fpl_change": 1.082476548,
+      "start_fpl": 0.5853658537,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "103",
+      "risk_score": 69.58489302225247,
+      "wage_gain": -14400.0,
+      "fpl_change": -0.1931526353,
+      "start_fpl": 1.875422139,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "104",
+      "risk_score": 69.08292946602774,
+      "wage_gain": -1623.0,
+      "fpl_change": -0.07673758865,
+      "start_fpl": 1.262553191,
+      "county": "Putnam",
+      "navigator": "Kelli Norris"
+    },
+    {
+      "id": "105",
+      "risk_score": 64.93966953697887,
+      "wage_gain": 19668.0,
+      "fpl_change": 0.4558053302,
+      "start_fpl": 0.3337195829,
+      "county": "Cumberland",
+      "navigator": "Caitlyn Like"
+    },
+    {
+      "id": "106",
+      "risk_score": 64.67824289746096,
+      "wage_gain": 53244.0,
+      "fpl_change": 1.414183267,
+      "start_fpl": 0.0,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "107",
+      "risk_score": 65.32363106848321,
+      "wage_gain": 129548.0,
+      "fpl_change": 3.440849934,
+      "start_fpl": 1.147410359,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "112",
+      "risk_score": 68.9998321241344,
+      "wage_gain": 22008.0,
+      "fpl_change": -0.1848908755,
+      "start_fpl": 1.817335835,
+      "county": "Clay",
+      "navigator": "Jeannie Tinnon"
+    },
+    {
+      "id": "113",
+      "risk_score": 65.99904735273773,
+      "wage_gain": -9148.0,
+      "fpl_change": -0.3432645403,
+      "start_fpl": 1.82739212,
+      "county": "Cannon",
+      "navigator": "Cortlind McCutcheon"
+    },
+    {
+      "id": "115",
+      "risk_score": 76.82321224774947,
+      "wage_gain": 26892.6,
+      "fpl_change": 1.27151773,
+      "start_fpl": 0.225106383,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "120",
+      "risk_score": 63.92522584428129,
+      "wage_gain": 12264.0,
+      "fpl_change": 0.3814618974,
+      "start_fpl": 1.151104199,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "124",
+      "risk_score": 62.84086850221863,
+      "wage_gain": 40020.0,
+      "fpl_change": 0.9274623407,
+      "start_fpl": 1.037867903,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "126",
+      "risk_score": 70.44246114797606,
+      "wage_gain": 8160.0,
+      "fpl_change": 0.2538102644,
+      "start_fpl": 0.5972006221,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "129",
+      "risk_score": 72.89470166620113,
+      "wage_gain": 0.0,
+      "fpl_change": 0.0,
+      "start_fpl": 1.134751773,
+      "county": "White",
+      "navigator": "Debbie Mayberry"
+    },
+    {
+      "id": "136",
+      "risk_score": 69.39151116929432,
+      "wage_gain": 14196.0,
+      "fpl_change": 0.8263558341,
+      "start_fpl": 0.5966228893,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "140",
+      "risk_score": 70.64465139997796,
+      "wage_gain": 10572.0,
+      "fpl_change": 0.1608411765,
+      "start_fpl": 0.8211508554,
+      "county": "DeKalb",
+      "navigator": "Janna Palmer"
+    },
+    {
+      "id": "142",
+      "risk_score": 73.25310718249592,
+      "wage_gain": 18000.0,
+      "fpl_change": 0.6754221388,
+      "start_fpl": 0.0,
+      "county": "Cannon",
+      "navigator": "Cortlind McCutcheon"
+    },
+    {
+      "id": "144",
+      "risk_score": 67.17161736866206,
+      "wage_gain": 10424.64,
+      "fpl_change": 0.4928907801,
+      "start_fpl": 0.0,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "145",
+      "risk_score": 61.558705799071355,
+      "wage_gain": -7200.0,
+      "fpl_change": -0.3934185149,
+      "start_fpl": 0.990619137,
+      "county": "Warren",
+      "navigator": "Kylie Medley"
+    },
+    {
+      "id": "146",
+      "risk_score": 65.37052051659242,
+      "wage_gain": 300.0,
+      "fpl_change": 0.01125703565,
+      "start_fpl": 0.1630018762,
+      "county": "Cannon",
+      "navigator": "Cortlind McCutcheon"
+    },
+    {
+      "id": "154",
+      "risk_score": 71.07562235874357,
+      "wage_gain": 18532.0,
+      "fpl_change": 0.8762174941,
+      "start_fpl": 0.9456264775,
+      "county": "Jackson",
+      "navigator": "Audri Bowman"
+    },
+    {
+      "id": "157",
+      "risk_score": 61.71411473706412,
+      "wage_gain": 1914.0,
+      "fpl_change": 0.02215635127,
+      "start_fpl": 0.1963297045,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "161",
+      "risk_score": 67.51232064097631,
+      "wage_gain": 0.0,
+      "fpl_change": -6.382978723e-06,
+      "start_fpl": 0.565106383,
+      "county": "Fentress",
+      "navigator": "Regina Stowers"
+    },
+    {
+      "id": "162",
+      "risk_score": 68.38935478162551,
+      "wage_gain": -1476.0,
+      "fpl_change": -0.04590979782,
+      "start_fpl": 0.5710730949,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "164",
+      "risk_score": 66.03263077522259,
+      "wage_gain": 14255.0,
+      "fpl_change": 0.4433903577,
+      "start_fpl": 0.8424261275,
+      "county": "Fentress",
+      "navigator": "Regina Stowers"
+    },
+    {
+      "id": "167",
+      "risk_score": 70.18724326601965,
+      "wage_gain": 0.0,
+      "fpl_change": 0.3508607222,
+      "start_fpl": 0.8500398406,
+      "county": "White",
+      "navigator": "Joseph Foutch"
+    },
+    {
+      "id": "168",
+      "risk_score": 69.75169730265354,
+      "wage_gain": -8400.0,
+      "fpl_change": -0.3971631206,
+      "start_fpl": 0.3971631206,
+      "county": "Putnam",
+      "navigator": "Adam Knepp"
+    },
+    {
+      "id": "180",
+      "risk_score": 76.53617559923019,
+      "wage_gain": -26400.0,
+      "fpl_change": -0.990619137,
+      "start_fpl": 0.990619137,
+      "county": "Macon",
+      "navigator": "Cammie West"
+    },
+    {
+      "id": "181",
+      "risk_score": 69.95481451800981,
+      "wage_gain": 4200.0,
+      "fpl_change": 0.1306376361,
+      "start_fpl": 0.2426127527,
+      "county": "Smith",
+      "navigator": "Marissa Alsteens"
+    },
+    {
+      "id": "183",
+      "risk_score": 65.00117726793502,
+      "wage_gain": 20172.0,
+      "fpl_change": 0.6819826221,
+      "start_fpl": 0.3631205674,
+      "county": "Clay",
+      "navigator": "Jeannie Tinnon"
+    }
+  ]
+}

@@ -1,0 +1,3234 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-08T14:23:07.491630",
+    "total_stories": 73,
+    "stories_with_release": 70,
+    "stories_willing_to_film": 34,
+    "stories_with_photos": 0
+  },
+  "themeDistribution": {
+    "children-family": {
+      "count": 71,
+      "percentage": 97
+    },
+    "career-employment": {
+      "count": 60,
+      "percentage": 82
+    },
+    "transportation": {
+      "count": 46,
+      "percentage": 63
+    },
+    "housing": {
+      "count": 40,
+      "percentage": 55
+    },
+    "education": {
+      "count": 36,
+      "percentage": 49
+    },
+    "income-increase": {
+      "count": 28,
+      "percentage": 38
+    },
+    "partner-services": {
+      "count": 24,
+      "percentage": 33
+    },
+    "cliff-navigation": {
+      "count": 13,
+      "percentage": 18
+    },
+    "single-parenting": {
+      "count": 9,
+      "percentage": 12
+    },
+    "graduation": {
+      "count": 4,
+      "percentage": 5
+    }
+  },
+  "archetypeDistribution": {
+    "two-generation-leader": {
+      "count": 71,
+      "percentage": 97
+    },
+    "system-connector": {
+      "count": 36,
+      "percentage": 49
+    },
+    "stability-architect": {
+      "count": 36,
+      "percentage": 49
+    },
+    "career-builder": {
+      "count": 33,
+      "percentage": 45
+    },
+    "crisis-navigator": {
+      "count": 19,
+      "percentage": 26
+    },
+    "first-in-family": {
+      "count": 4,
+      "percentage": 5
+    }
+  },
+  "stories": [
+    {
+      "id": "story_95a345e7",
+      "participantName": "Emily B.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Emily B.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "No partner referral was used. Emily did the research about enrolling in school herself ",
+        "financialSituation": "Emily's husband works for a construction company which also works at part-time, helping keep the books. Construction jobs are mostly seasonal and weather permitting. ",
+        "inspiration": "After completing her GED, she had expressed she wanted to continue on with her Education. Her teacher through Adult Ed, Maxine Dawson, encourage her to apply for our program. ",
+        "challenges": "Daycare has been a big barrier in Emily's journey. She had previously been seeking full-time employment in the nursing field or in some type of medical setting but the lack of daycare availability has cause her to halt. ",
+        "lifeChanged": "Emily and her husband have set obtainable and maintainable goals for their family. Emily being the first in her family to attend college is a big deal! "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_0c5c78a1",
+      "participantName": "Autum W.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Autum W.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Too early to tell of any success but it is a huge first step.",
+        "financialSituation": "Member works locally at a fast food restaurant making $12 hr. The negative impact on the member and her family is realatively large. She is unable to pay for daycare and food with out assistance. She needs occasional assistance with fuel for her car and ocassional rental assistance.",
+        "inspiration": "Member states she wants to make a better life for her son.",
+        "challenges": "Member has a problem with not following thru a task to completion and asking follow-up questions. Member is learning to take one step at a time to complete a task and ask any question regardless of how insignificant the question may be.",
+        "lifeChanged": "Member communicates much more frequently with her navigatior and is thinking things thru and asking questions before taking action. Member accepts responsibility for her actions if things go awry."
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_2f7dcc26",
+      "participantName": "Kelly P.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Kelly P.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Kelly and Bryon were continuously stress and struggling to make ends met and pay their bills. This toxic stress was causing Kelly to battle with anxiety and depression.",
+        "inspiration": "Kelly had been working as a receptionist at Salt of the Earth and realized that she could make a better life for her family so she started TCAT. ",
+        "challenges": "Even paying for the basic needs was a struggle. ",
+        "lifeChanged": "They are able to pay their bills on time. "
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_be0d6957",
+      "participantName": "Jessica M.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Jessica M.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "this family showed up every night . ",
+        "financialSituation": "pay check to paycheck , mental struggle and always in survival mode ",
+        "inspiration": "more awareness  ",
+        "challenges": "not being able to pay rent with out assistance and choosing to pay them with out help",
+        "lifeChanged": "more aware of resources that are available in her community to help her grow finically stable "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_c16330b1",
+      "participantName": "Kelley P.",
+      "county": "Van Buren",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kelley P.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "She has a savings account with 250.00 in it ",
+        "financialSituation": "Participant has a husband would is disabled and she works at Hardees  Two daughters in the home ",
+        "inspiration": "They needed to have a savings account and wanted to take action on this ",
+        "challenges": "Working to many hours, she drive a older truck that needs a lot of work ",
+        "lifeChanged": "Ready to Learn has reset their family for open communication around the Dining tAble "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_ecd7aae7",
+      "participantName": "Xiomara R.",
+      "county": "Fentress",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Xiomara R.: A Future for the Next Generation",
+      "pullQuote": " Yes what other option do I have",
+      "fullStory": {
+        "success": "Xiomara has completed the first 2 (4 weeks each) Ready 2 Learn in Cumberland County. ",
+        "financialSituation": "Xiomara was working part-time at a furniture store but was recently taken off the schedule due to business being slow. The family is relying solely on the SS benefits that are received by her youngest son. ",
+        "inspiration": "Xiomara attended the first R2L and was eager to attend the 12 week circle leader training in Cumberland County this is about an 80 mile weekly round trip that she committed to. The Circle Leader training has helped Xiomara find out about resources, employment opportunities and build relationships with other circle leaders. ",
+        "challenges": "Xiomara realized early into the 12 weeks that the tires on her car were not going to allow her to complete the 12 week training. She reached out to her Navigator and Empower was able to get her some tires for her vehicle. ",
+        "lifeChanged": "When I asked Xiomara if she was interested in continuing with Circles and being matched with an ally she stated \" Yes what other option do I have\" she said this is the only glimmer of hope that I have and hopefully I can do better for my family by attending these meetings. "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_32dd1003",
+      "participantName": "Brittney K.",
+      "county": "Warren",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Brittney K.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "The family really enjoyed the RTL classes as a family.",
+        "financialSituation": "Jason is the only family member employed. Brittney did not graduate high school, so finding a job without a high school diploma is hard. Also finding an affordable babysitter was not an option.",
+        "inspiration": "Brittney has a chance to receive her GED, so that she could find a decent job.",
+        "challenges": "Brittney had been wanting to go to GED classes but was not encouraged to go. The Empower program gave her an incentive by offering milestone payment for this activity.",
+        "lifeChanged": "The family is spending quality time together at RTL classes, and Brittney is going to have her GED."
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_c8138d4d",
+      "participantName": "Autumn J.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Autumn J.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "No partners where utilized. Highlands was considered, but without license or transportation, Highlands was not a possibility.",
+        "financialSituation": "When Ms. Johnston came to UCHRA, she was unemployed. She had quit her employment of 6 yrs when given the demand to work 3rd shift. So, finances was strained but kept stable from Ms. Johnston living frugally. Ms. Johnston does not have her driver's license or a vehicle for transportation, and a divorce made her find creative ways to get from place to place. Ms. Johnston did fall into the work and family cycle, and did withdraw from society to keep the family home functioning.",
+        "inspiration": "Ms. Johnston had a dream to get her HiSet completed and once she the Navigator ask her about post secondary courses, she started realizing that  she maybe able to do something more. The Navigator got Ms. Johnston in touch with the local Adult Education instructors and Ms. Johnston went the next day to register. Less than a month later, Ms. Johnston had passed her HiSet. Ms. Johnston had considered taking cosmetology  course at TCAT, but with the high scores on the HiSet opened a world of options for post secondary courses. Ms. Johnston has enrolled in online college course starting next semester with the goal of veterinary tech or working in forestry. Ms. Johnston has also started a job as a bus aide for special needs children in the school system. Ms. Johnston is showing by action what can be achieved at any age and is now wanting to take a driver's license course to gain her license and become completely self sufficient.",
+        "challenges": "Ms. Johnston only needed someone to believe in her to move forward and to show her a pathway that made her goals possible.",
+        "lifeChanged": "As stated above, Ms. Johnston is moving forward at leaps and bounds. The HiSet was gained in less than a month after enrollment, and with the success of the job and post secondary enrollment, the momentum has snowball into bigger goals and showed her children the strength their mother has."
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "high"
+    },
+    {
+      "id": "story_80ef1927",
+      "participantName": "Anonymous",
+      "county": "DeKalb",
+      "releaseFormSigned": false,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Anonymous: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "She and her son enjoyed RTL very much and will return. She also temporarily lost her TennCare due to an administrative issue, and tapped into help from CMRCF, who helped her by covering expenses.",
+        "financialSituation": "Kristie is currently living with family and has a dream of a home of her own so her son can have his own place. It has been an challenging emotional struggle for her as she gets back on her feet financially, but even in the face of adversity, she has avoided predatory debt and that gives her confidence about her financial future. ",
+        "inspiration": "Kristie is a very internally motivated person who wants the very best she can provide for her son. He is her \"why\" and she works very hard in difficult conditions to provide for him.",
+        "challenges": "Kristie works in a 50 degree room at her job in a food company. She lives at home with her aging parents to save money, but this is very difficult for her in terms of time and personal resources. Her son was recently severely injured at school and had surgery, but she has managed to increase her wage by asking for a raise after a coaching session with EUC Navigator, tapped into CRMCF resources to help with medical needs, and is taking advantage of the Vol State Tuesday Night Live opportunity to re-start her post-secondary education. She stays organized and positive, too. ",
+        "lifeChanged": "She is more confident and feels \"seen and heard\". She is excited about returning to college and the opportunity to earn a degree and secure an apartment with her higher wages. With coaching, she asked for a raise and received one. She also benefits from having someone to plan and talk with. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_bb279683",
+      "participantName": "Zakiya R.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Zakiya R.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "The Highlands Training Center appears to be a good partnership with Miss. Roberts and she seems to be benefiting positively.",
+        "financialSituation": "Miss Roberts is currently involved in a divorce proceeding and some of her income goes to pay legal fees. According to the negotiated responsibilities, Miss Roberts is responsible for the mortgage of the family home and all upkeep and maintenance. The mortgage payments and the typical monthly living expenses are having a negative impact on her ability to provide for her family.",
+        "inspiration": "Miss. Roberts inspiration for change came in the form of training programs, encouragement and the support offered to her through the Empower UC program.",
+        "challenges": "Miss. Roberts has made adjustments to her part time work schedule and adjust her finances to ensure she has enough fuel to travel to and from class and her daily travels. ",
+        "lifeChanged": "Miss. Roberts is highly motivated to find a better job with higher pay, better benefits and is working towards expanding her business because of the knowledge and confidence she has gained from attending classes at the Highlands Training Center."
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_a195ebe2",
+      "participantName": "Jamie H.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Jamie H.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Participant has been in touch about getting a home and has been given several opportunities to go with to help assist her this year work on her goal for home ownership.",
+        "financialSituation": "Participant has struggled for years after loss of a spouse which forced her into renting a room from family and got her off track on their goal to obtain a home of their own ",
+        "inspiration": "after over coming fear of asking for a raise the participant has more confidence in her self. shes setting goals now.",
+        "challenges": "Participant found courage and worth and over came fear of asking for more. Participant states now she has a game plan to work on",
+        "lifeChanged": "obtained a raise and started saving money for a home."
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_157a8239",
+      "participantName": "Christina S.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Christina S.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Working with Rosa there will be  success she will be able to get documents and codes updates for her home ",
+        "financialSituation": "Family needs savings and has taken their child in to hopefully adopt her ",
+        "inspiration": "To adopt the little girl that they have been providing care for.",
+        "challenges": "Christina has back problems that prevent her from working a full time job. We have came up with a plan to contact Rosa to have her set the process up to at least keep on child in er home for daycare. This is provide and income for her and working with a pathway to increase number of children for income ",
+        "lifeChanged": "more income more savings and less debit"
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_538771c6",
+      "participantName": "Tequila L.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Tequila L.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "She is currently talking with TTU about the next steps to take and which path best suits her ",
+        "financialSituation": "Tequila has been employed since participating in Empower UC. She had to have surgery and was out of work for six weeks. She expressed struggling during that stretch of time without consistent income. She had to rely on community resources and family assistance. ",
+        "inspiration": "Tequila had planned to go to college following high school but life had different plans. She had children early in life and decided once they were all enrolled in school that she would focus on her education and career. She stated she's always wanted to be in the medical field. ",
+        "challenges": "She is a single mother of four children. Her sister in law passed away from her battle with cancer and has been assisting her brother with their children as well. She had to be out of work for six weeks which was a huge barrier for her family.",
+        "lifeChanged": "She is seeking enrollment for a college degree and working toward milestones that will remove barriers in her life. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_f724cd41",
+      "participantName": "Kasey T.",
+      "county": "Fentress",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kasey T.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "With her work schedule we have not used any partners at this time.",
+        "financialSituation": "It is emotionally draining on Kasey to have to ask for help and these young mothers that receive no child support will struggle with mental health issues because they are not getting any assistance from the government. ",
+        "inspiration": "Necessity! Instead of Kasey moving to public housing and re-applying for Snap or worse going in debt with a payday loan when things got hard she has made changes by working as many hours as she can to cover the extra rent and expenses that came with her new job! She had to buy a car to cover certain routes that she had the option to sub when the regular drivers were off. ",
+        "challenges": "See above! Kasey's mother, father, and older sister have all struggled with addiction problems and her and her twin sister are determined to break the chain of addiction with themselves and their children. ",
+        "lifeChanged": "With the assistance of child care payments Kasey was able to keep her child in a safe and secure place when she is working. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_d17b0528",
+      "participantName": "Amber R.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Amber R.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Amber received a visit from Tony form HTC which gave her so much confidence, she interviewed for and landed a better job that week. While she did not participate in the Aim High Curriculum, the time she spent with Tony was so encouraging, she felt she could take on the challenges of finding better employment and she did. She also enjoyed Ready to Learn from WCTE very much. Her son had some struggles at first, but di well and showed growth to complete the 4 sessions. ",
+        "financialSituation": "Amber's financial situation has been precarious for years and this has increased her anxiety and left her feeling isolated from others in the community. She also struggles with connections due to the disabilities in her family, but she does have a few friends to rely on for support. She shared that she does not have a deep social circle of support, but a few family members will help if they are able to do so.",
+        "inspiration": "Amber truly wants a good life for her young son. She wants to be able to independently provide well for him and herself. She was becoming overwhelmed with cost of living and rather sad at her very run down living conditions at the place she rented when she entered the program. She also has challenges communicating and this was affecting her work and life in negative ways. ",
+        "challenges": "Amber was feeling overwhelmed with work, trying to find resources for support for herself and her son, discouraged by the school system's inability to meet his needs, and very down about her living conditions with a landlady who was not providing the basics by law in her rental unit. Amber's struggles with communication often sideline her from success due to the difficulties in the system where some people are not compassionate in regards to her situation. She has also been the victim of landlord/tenant abuse but was not away of her rights. She overcomes the hurdles by persevering and reaching out for help to friends. Since joining Empower UC, she has connected with Vocational Rehab at the suggestion of her Navigator which has been a tremendous help. She has moved twice to get her son and self into a new rental home with no rent because she is in Vocational Rehab. At one time, she was working several jobs to make ends meet, and now she is ale to work one job which is providing much better resources (benefits, PTO, health insurance, etc.) and they work with her in terms of her schedule and her son's needs. She is goal-oriented and wanting to earn more as she can. She is also considering filing for child support assistance to overcome the lack of support given by the child's father. ",
+        "lifeChanged": "Amber and her son are living in a newly built home in a new community with school support that is much better able to help her son develop by getting the accommodations and extra supports he needs. She has sought medical evaluations for him to identify learning challenges and physical and emotional challenges and is now able to get him the help he needs for them as well. Because he can do better in his school setting, Amber is able to focus more on work and life planning about her prosperity pathway. This is a result of encouragement and resource-finding through Empower UC. Amber has also met a few new friends through Ready to Learn. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "detailed",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_c3768167",
+      "participantName": "Shawna N.",
+      "county": "Cumberland",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Shawna N.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "The family has reduced the stress and been able to focus on their mental health needs.",
+        "inspiration": "They wanted their little one to have a better life. ",
+        "challenges": "Shawna and her family faced barriers with child care, transportation, and meeting basic needs. Empower Upper Cumberland was able to bridge that gap by providing financial support, financial literacy, emotional support, and encouragement",
+        "lifeChanged": "They no longer need help with basic needs\n"
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_4f351215",
+      "participantName": "Chelsie S.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Chelsie S.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "She loved Circles but didn't get to attend very long because of school being on the night of Circles but while she was there being able to meet other people that had the same similar needs that she needed and having even more support was a plus for her. I hope for our 2nd cohort she and her family will be able to attend.",
+        "financialSituation": "When she started the program she was keeping 4 children making $400.00 dollars a week and since then i encouraged her to apply with LBJ&C in Sparta after her sons body cast came off and he was doing so much better and she got the job as a teacher assistant. She has now got 2 big raises since she has been with them. That opened her up to not only having Empower as a support group she now has the director of LBJ&C and other piers she works with. Now she is making 13.21 per hour which has boosted her self confidence into moving on up the ladder and starting school. She has also met the love of her life now since her last success story his name is Nelson and with his added income and love and support I am seeing a big year for her this year.",
+        "inspiration": "I feel that when she enrolled in Empower the extra support that we were going to be able to help her with and to just know she had someone that she could talk to and support her was the biggest thing that helped her. She has never really ask for much help with her bills but the knowing she had support went a long way for her.",
+        "challenges": "She had many obstacles along the way. She had to get through her separation from her children's father and learn how to do life and take care of her children on her own and what she was going to do. she had a lot of ups and downs along the way. She had the determination and mind set that she was going to make it. She knew that there was something better for her and her children out there and she was determined to find it. So she worked hard and found Empower and she started blossoming ever since. ",
+        "lifeChanged": "I feel like I am I am repeating myself. Her life has changed for the better by changing jobs and being able to get help with her schooling and be able to further her Education."
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_26207082",
+      "participantName": "Sara D.",
+      "county": "Macon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Sara D.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Sara and her 13-year-old daughter, Serinity, had been living in a hotel for a couple of months, and it was a weekly paid hotel. Most of her wages went to stay there, because it cost more than a rental property. It was hard for them to not have their own space. ",
+        "inspiration": "Sara's motivation has always been Serinity. Living in the hotel was very hard on both of them, and that inspired Sara to take action and apply for Empower. She wanted help navigating a way out of there to get their own place. ",
+        "challenges": "Applying for an apartment with Highland's Residential Services required a lot of paperwork on Sara's part to apply. It also took a lot of patience to wait and hear back from them, while she and Serninity were living at the hotel. She had to stay positive, and just keep going, even when she felt discouraged or felt like it wasn't going to happen. ",
+        "lifeChanged": "She and Serinity now have their own apartment through Highlands Residential. They have their own rooms. Sara is learning to budget properly, and is even talking about opening a savings account (and an IDA with Empower). Both of them are more positive and excited about the future."
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_f055b932",
+      "participantName": "Katelyn M.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Katelyn M.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Katie and her daughter successfully completed our R2L workshop. They were able to spend some much needed time together and bond over learning activities. ",
+        "financialSituation": "Due to being a single mother, Katie has encountered multiple circumstances that have become setbacks financially. Recently, her daughter was hospitalized and required surgery. Katie had to miss several days of work. This caused issues with normal monthly bills and situations that occur in everyday life. Katie was struggling to afford gas to travel back and forth the Vanderbilt for check-ups. ",
+        "inspiration": "Katie is a single mother to her daughter, Emerysn. She wants to a create a stable, comfortable life for herself and her daughter. Her goal is establish a savings for emergency situations and for her daughter's future. ",
+        "challenges": "Katie was faced with having to find another place to live. She utilized her connections and found someone that is willing to do a rent-to-own contract with her. Her daughter was sick and had to have emergency surgery, so Katie had to miss several days of work. She utilized her resources within Empower and was able to obtain gas cards for travel cost assistance. She was able to get after-school care for her daughter for the days she has to work past school pick-up times. ",
+        "lifeChanged": "Since Katie has been enrolled, I have saw growth in many ways. She has obtained a higher wage, working hours that are suitable for her and her daughter, and I've watched her inner circle grow. Katie was very reserved from others, but I have watched her connect with other participants at our R2L workshops. "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_8379a188",
+      "participantName": "Kristie S.",
+      "county": "DeKalb",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Kristie S.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Kristie has successfully attended HTC workshops, Ready to Learn twice with her son, and received assistance through CRMCCF. She is meeting next week with our Partner from TTU about career paths and education.",
+        "financialSituation": "Kristie does well at managing the money she does bring in. She has avoided debt and maintained discipline over her finances, even though she hasn't really done formal spending planning before EUC. However, due some unfortunate past circumstances, she has not been able to gain employment that is equal with her skills and abilities. This impacted her confidence and life outlook negatively, but she does have a positive attitude. ",
+        "inspiration": "Kristie wants more for her son and herself. She wants to be a role model of success and perseverance for him. She wants to achieve more career and financial stability & success to create a better life for them. ",
+        "challenges": "Kristie has consistently met with her Navigator and worked her prosperity plan. One of her fist successes was negotiating for a raise at work on her 1 year date, after prep and practice with her Navigator. She has maintained full-time employment during her entire time with EUC, and has recently received new tires because she works FT and attends so many EUC events.",
+        "lifeChanged": "Kristie has more confidence, job stability, and a brighter life outlook; but most importantly, she is planning for a better future through Higher Education and public service. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_0b822bda",
+      "participantName": "Dana K.",
+      "county": "Warren",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Dana K.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "NOT YET",
+        "financialSituation": "Safe and working she is meeting the the needs of daily life",
+        "inspiration": "She needs to provide a better outcome for her children ",
+        "challenges": "Childcare",
+        "lifeChanged": "She is able to provide food for her and her family "
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_da95ed65",
+      "participantName": "Ashley T.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Ashley T.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Yes Debbie Roddy goes above and beyond to work with clients and their work schedule and meeting them where they are. ",
+        "financialSituation": "Ashley is a single mother with 2 children who receives SNAP, Medicaid, Free Lunch and lives in subsidized housing. ",
+        "inspiration": "Ashley was raised by a single mother who struggled with addiction and she made the decision to break the cycle of living off of government assistance. Ashley said that she knows the only way out of poverty is with education. ",
+        "challenges": "With the higher paying job Ashley will lose her SNAP and possibly her Medicaid and rental assistance. When I spoke to her about the loss of benefits she stated that she had met with her rental manager and found out that she will barely be under the maximum so she will be able to cover the difference in her rent and loss of SNAP with her extra income. ",
+        "lifeChanged": "Ashley said that with just her Associates degree which she has had for a while she was able to get a job paying $17 plus dollars per hour. She didn't realize that was even possible and said that whether she stays at her current position or takes a job with the public school board that she will better be able to provide for her family as a single mother. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_72704157",
+      "participantName": "Jerry J.",
+      "county": "Pickett",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Jerry J.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Better communicaiton about money and finances. They work to maintain they are current with all bills or debts.",
+        "financialSituation": "Jerry new job and income has help maked their homelife and family finances better and stressless.",
+        "inspiration": "Jerry's hard word with Empower and Circles led to his dediction to improve his economic standing.",
+        "challenges": "Some of the challanges Jerry had to overcome were, getting caught up on overdue bills, getting needed home repairs done and managing the family's money. Jerry took a meticulous approach and used available resources in conjunction with his own finances and understand financial management, plus the tools and knowledge he aquired in Empower / Circles to plan and work his way to success.",
+        "lifeChanged": "Physically, Jerry smiles a lot more, he is engaging in converastion on matters of financial growth, personal growth and he practices more financial teamwork and shared responsibilities with his spouse."
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_d70d836f",
+      "participantName": "Monica S.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Monica S.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Just joined TTU pod's",
+        "financialSituation": "Monica has had a couple of good raises and a promotion since being in Empower so she is financially stable but before she was really struggling getting her bills paid and having enough money to allow her children to do some activities in school that they wanted to do.",
+        "inspiration": "Monica said when I become part of the Empower group in May of 2023. As a single mother raising 3 children alone with no help from there father and no support to fall back on when you need the help, it can become overwhelming at times.",
+        "challenges": "She had to overcome her fears in doing it on her own. I was very nervous",
+        "lifeChanged": "Now she is able to budget better by making some changes in her life and now my kids can do the activities in school that they enjoy."
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_0f57dd9f",
+      "participantName": "Anonymous",
+      "county": "Jackson",
+      "releaseFormSigned": false,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Anonymous: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "not at this time ",
+        "financialSituation": "lower pay has definitely made the families budget tight but single mother of 2 is working hard and making changes fast.",
+        "inspiration": "single mom with 2 kids , she is always trying to better her and her children's life but a wage increase has helped them get off food stamps, and they are saving money for emergency now.",
+        "challenges": "with out higher pay they had to survive off SNAP with a better wage family is feeding their self ",
+        "lifeChanged": "budgeting and setting goals"
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_eaae0c4a",
+      "participantName": "Robin B.",
+      "county": "Macon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Robin B.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Robin has completed Circles in Macon County and she has stated she still plans on coming. ",
+        "financialSituation": "Robin is making more money since she started with Empower. It has seemed to help out quite a bit. She has just completed her IDA. She made a commitment to putting $200.00 monthly and she did just that. She was even able to put some extra in on certain months. ",
+        "inspiration": "Robin was wanting to do better for her children. She wanted to make more money and be able to provide anything she can for them. ",
+        "challenges": "Robin is a single mom to 7 children, being the only one with income in the household has caused many barriers for her. However, with a little help from Empower she has been able to get the kids in Soccer and get the gear they need, save up money for her car to be paid off, and has made several friends through Circle's and Ready to Learn.",
+        "lifeChanged": "Already answered. "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "partner-services",
+        "transportation",
+        "housing",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_a00fd57b",
+      "participantName": "Alexis W.",
+      "county": "Macon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Alexis W.'s Journey to Self-Sufficiency",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Alexis obtaining full time position as a bank teller has given her more hours and pay. This has alleviated some of the financial stress she has been facing. She is also relieved that since becoming full-time she has obtained health, vision, and dental insurance. This has helped her since she's been needing to go to the doctor's and couldn't afford it. ",
+        "inspiration": "Alexis was wanting to set up a fund for emergencies. She started her IDA and contributed $125.00 a month for 6 months. This has been a relief for her since she completed it and Empower has matched it. ",
+        "challenges": "Alexis first obstacle she encountered was that she needed tires for her vehicle so she could obtain a job. With Empower Support Services we were able to help her fix her vehicle and she was able to go to work and not miss that much time. ",
+        "lifeChanged": ""
+      },
+      "archetypes": [],
+      "tags": [
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 0.3,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_fcbc8952",
+      "participantName": "Elizabeth R.",
+      "county": "Cumberland",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Elizabeth R.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Hasn't completed classes yet. ",
+        "financialSituation": "Household was depending on Derek solely while Elizabeth attended school. Due to not having to pay rent the household was not eligible for SNAP. Derek was driving to and from Nashville for work everyday and Elizabeth was driving to and from Crossville everyday. ",
+        "inspiration": "The birth of their child",
+        "challenges": "Finding safe affordable child care. When they were able to find a provider with an opening Navigator helped them navigate the Smart Steps application process and they were approved for assistance. ",
+        "lifeChanged": "Has a skill that can carry them through life and help them keep gainful employment. "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_96e66722",
+      "participantName": "Katie M.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Katie M.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Katie has attended one R2L workshop in Cannon County. She is enrolled with TTU for the Individual Learning Pods and has completed one. She was able to utilize the help of CRMC when her daughter had to have emergency surgery for gas cards to help with travel cost to and from the hospital for follow-up appointments. ",
+        "financialSituation": "Katie is a single mother and works a full-time job. Being the sole provider of family, she faces circumstances that hard to over come, such has juggling monthly bills, necessities, and providing all her child's need. ",
+        "inspiration": "Katie has increased her social capital and we have developed a great relationship. Katie mentioned having more people in her \"corner\" as allowed her to ",
+        "challenges": "Katie was struggling to find someone to look after Emerysn while she worked. She was able to enroll her daughter in the after school program since there is a lack of daycare available here in Cannon County. ",
+        "lifeChanged": "Katie has already reached the main goal she set for herself since being enrolled in Empower. She was renting a home but she wanted to own her own home. She is now renting to own.  "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_a5c4d384",
+      "participantName": "Shelby H.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Shelby H.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "family time skill building and soft skills ",
+        "financialSituation": "family is stable and flourishing ",
+        "inspiration": "once they enrolled and took advantage of the resources that our program offered they were able to see a bigger picture with the help of budgeting and planning through our prosperity path way it opened their eyes to a future and help them set goals in place to get where they needed and wanted to be. ",
+        "challenges": "lose of spouse , no income , no child care .",
+        "lifeChanged": "more confidence and new mindset "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "cliff-navigation",
+        "children-family",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_f42d0800",
+      "participantName": "Brandi k.",
+      "county": "Cumberland",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Brandi k.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Ready to Learn , Circles ",
+        "financialSituation": "They are not able to participants  in extra activites  outside of school because of cost ",
+        "inspiration": "Seeing others having memories and sharing stories ",
+        "challenges": "Looked into camps and the cost and weeks that they can go that doesn't include summer school Empower is looking to pay for some camps for Kelley Daughter Hannah for 4-H",
+        "lifeChanged": "Social captail in being built"
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "partner-services"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_89ec4e4f",
+      "participantName": "Amber M.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Amber M.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Amber is registered for her last TTU pod- and will soon complete all 10! ",
+        "financialSituation": "Caleb is faced with the barrier of only being able to work part-time due to disability. Caleb must attend physical therapy and many doctor appointments. The Milligan's were able to develop a plan for Caleb to contribute to the family financially. ",
+        "inspiration": "Since enrolling in Empower UC, the Milligan's goals were to decrease debt and establish a savings plan and maintain a savings account. ",
+        "challenges": "Daycare was a barrier for the Milligan's but they were able to enroll their daughter Sadie in Woodbury Day School which allows Caleb to focus on his business two days a week. Amber and Caleb discussed with me their debt to income when enrolling- they were able to talk with a financial advisor and combine their biggest monthly bills together including a home mortgage. ",
+        "lifeChanged": "Without Empower, Amber stated she and Caleb would not have established an IDA- savings goal or even stuck with it. Once we discussed the IDA, they were able to establish a goal to contribute toward for six months. This has allowed the family to follow strict budgeting and reach their goals. They were able to reach the max amount available. They are using the funds from IDA to develop and secure a self-employment business for Caleb. Caleb's passion is thrifting vintage clothing- He buys & resales. He is purchasing a business license and will start doing \"pop-up shops\" and running a business from eBay. "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_5fc9e32a",
+      "participantName": "Abigail J.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Abigail J.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Abigail and her family have succeded in the Ready to Learn program and continues to succeed in Circles USA by using the information and resources those programs and other similar programs offer. ",
+        "financialSituation": "Her family has recently gained an increase in income and a second raise in the income is expected to place them at or above the 225% FPL. The family is a single income family, her husband Jerry works as a diesel engine mechanic. This gain in income has appeared to  positively impact the family with making and staying on time with debts and expenses.",
+        "inspiration": "The inspiration for these changes in their circumstances is the family's desire to get out of debt and to experience the things that come with financial freedom. Abigail and Jerry have two young children, they want a better life for their children.",
+        "challenges": "Abigail and her family had several financial challenges they were working thru due to the impact of Covid. Jerry experienced an occupational downturn that severly impacted his ability to keep his established income and ability to support his family They family succeded in getting back on it's feet by using the resources and tools within Empower and their local community. The family employed those tools and resources to help overcome and manage those hurdles.",
+        "lifeChanged": "Abigail and her spouse have shown the courage to take risk and chances to go for better opportunities that will improve their lives to not only gain knowlege and experience, but to make themselves available to assist other families."
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "graduation",
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "partner-services"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_30b2fbc6",
+      "participantName": "Ashley T.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Ashley T.: Breaking the Generational Cycle",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Yes Ashley is facing her fear of testing. She has spent the last several years attending classes for teaching and she is down to one test and being able to get her Bachelor's and her teaching degree. ",
+        "financialSituation": "Ashley is a single working mother ",
+        "inspiration": "Generational Poverty and wanting a better life for her children. ",
+        "challenges": "Ashley had to have the Praxis taken before April 2024 and was unable to pass so she will not be able to do her student teaching until she passes this test. ",
+        "lifeChanged": "Even without her degree Ashley obtained employment with LBJ&C as a teacher which will be beneficial to her in her student teaching journey. "
+      },
+      "archetypes": [
+        "first-in-family",
+        "career-builder",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_d3f7a7d5",
+      "participantName": "Krystal O.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Krystal O.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Krystal has become more outspoken socially since joining the Circles USA program. She is committed to attending every single meeting, even if her daughter is not able to come with her. She went from being shy and reserved in the beginning, to being the one in charge of housekeeping (new and goods and appreciations). ",
+        "financialSituation": "Krystal has been working diligently to improve her credit score with the ultimate goal of purchasing her own home. She is also the sole provider for her household, which certainly causes stress.",
+        "inspiration": "Krystal is highly motivated to build a better future for her children by providing financially for them and becoming a homeowner.",
+        "challenges": "Krystal's commitment to improving her credit score has come with barriers. She has been unable to get a credit card due to her credit history, but has been creative in finding other ways to increase her score. She was able to set up a secure loan at a local credit union which will build her credit history over the course of a year. She is determined and has been doing everything she can to accomplish her goals of a 700 credit score and being a homeowner.",
+        "lifeChanged": "Krystal's life has improved socially and financially since participating in the Empower UC program. She has increased her credit score to 650 from the mid 500s. She has made social connections through Circles USA meetings that have connected her to resources such as attorneys to aid in accessing a divorce and realtors to help her find an affordable home."
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_82b6ebd1",
+      "participantName": "Rebecca W.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Rebecca W.: Creating Family Stability",
+      "pullQuote": "The exhaustion of feeling like you are chasing your tail all the time. It is very stressful to never feel like you are accomplishing anything even though you work hard everyday.",
+      "fullStory": {
+        "success": "Rebecca attended to rounds of PBS Kids Ready to Learn with her children which gave them much needed family time to be together without cost and having to plan the events and activities.",
+        "financialSituation": "Rebecca shared: \"It is stressful being a single Mom and having to work all the time just to make ends meet. When you have children there are always expenses, besides your normal bills, Everyone wants their children to have everything, but itis difficult to provide sometimes.\" ",
+        "inspiration": "Rebecca shared: \"The exhaustion of feeling like you are chasing your tail all the time. It is very stressful to never feel like you are accomplishing anything even though you work hard everyday.\"",
+        "challenges": "Rebecca shared: \"As a single Mom, I have encountered so many challenges. One of my children's dads was in prison, got out, and is back in jail, so there is no financial or emotional support there. The other one's dad was absent for 4 years and is now in jail with no financial or emotional support [from him]. I have maintained a job, cut expenses and managed to start savings.\"",
+        "lifeChanged": "Rebecca shared: \"I no longer use food stamps or heat assistance, I also have some money in savings for an emergency.\" Rebecca is also committing to landing a much higher paying job in her field where she can help even more educators with her gifts, talents and abilities. "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_c0c28542",
+      "participantName": "Anonymous",
+      "county": "White",
+      "releaseFormSigned": false,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Anonymous: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "She and Zianna loves Circles and WCTE They both have grown and has had great success with both of these partners",
+        "financialSituation": "Olivia's financial situation is somewhat stabilizing she is up to 17.02 per hour and I have helped her with some debt recovery. Before and still is very concerned about getting her rent paid and making sure her and her daughter has a roof over there head. She in her past has been homeless and wants to make sure Zianna never has to go through that.   ",
+        "inspiration": "Olivia grew up rough and it continued as she became an adult and had children of her own  ",
+        "challenges": "She had the challenge in front of her to clean herself up and get a job and to take care of Zianna. Zianna was her determination she wanted her daughter to have a better life. ",
+        "lifeChanged": "Empower has gave her someone to lean on and to help guide her through some discussions and someone just to be there and care about her and Zianna and someone she has to be committed to and someone to help her be accountable "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_be5fb183",
+      "participantName": "Robin B.",
+      "county": "Macon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Robin B.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "....",
+        "financialSituation": "see above",
+        "inspiration": "encouragement thru Empower and Circles ",
+        "challenges": "....",
+        "lifeChanged": "her kids love to come to Circles, she had grown and become more talkative and sharing within the group. She came in and was very shy, now she is very sharing. I feel her confidence has grown!!!! "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "partner-services"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_adac95f3",
+      "participantName": "Catherine G.",
+      "county": "Smith",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Catherine G.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Yes CRMC was able to help provide groceries for the household during the summer months. Household is not eligible for SNAP but being a single parent and not receiving any child support with a growing son was making it hard for Catherine to provide. ",
+        "financialSituation": "When Catherine first started with Empower she was not working but soon received a job at the school she had just graduated from as a Junior instructor. ",
+        "inspiration": "Catherine realizes the value of education and also realizes the importance of raising your child in a stable non violent household. ",
+        "challenges": "Catherine moved from Fentress to Putnam County as child care was an issue and she new it would be after 5 each day before she could get back to Fentress County. Moving to Putnam allows her to save wear and tear on her car as well as allows her to spend more time with her son. ",
+        "lifeChanged": "Catherine says she feels better knowing she has someone to talk to when life throws curveballs and is better equipped to stop and look at a situation without panicking. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "graduation",
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_6c5516d8",
+      "participantName": "Spencer W.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Spencer W.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "none yet",
+        "financialSituation": "Spencer went through a divorce and got custody of his little girls Luna is 8 and Aurora 7 he was devastated and didn't really know what to do and where to start. He had no one to help and didn't know what to do so he began going to church and depending on his church family and friends he started school to become a Christian Counselor.",
+        "inspiration": "He was left alone raising 2 little girls",
+        "challenges": "He had to learn how to manage being a dad and a mom. Turning to Jesus was how he overcome his fears.",
+        "lifeChanged": "He has had more opportunity's being n Empower with work"
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_58e911cc",
+      "participantName": "Dana K.",
+      "county": "Warren",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Dana K.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Stephaine Brd",
+        "financialSituation": "Socially and Emotionally this family uses most of their income to use it on daily living",
+        "inspiration": "Dana was able to let Empower help pay for YMCA which saved her over 800.00 ",
+        "challenges": "Savings is going to be hard for this family we  are working on overcoming this ",
+        "lifeChanged": "Being are to manger the stress of full time mom and full time job "
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_dd6d8b09",
+      "participantName": "Molly H.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Molly H.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Molly completed the Ready to Learn series which encourages working together as a family to solve problems and complete experiments. She has also completed curriculum and workshops from HTC. Molly is hoping to join the next Putnam County Circles USA cohort when it starts. ",
+        "financialSituation": "unsure",
+        "inspiration": "Molly is determined to build financial stability for herself and her children.",
+        "challenges": "Molly has faced eviction, was temporarily living with a friend, and found a rental for her family all within a short period of time. When she realized that the night shift paid more than the day shift, she worked out childcare and agreed to work nights. She also found that working weekends increased her wages per hour and so she agreed to work weekends and nights. She has kept her part time job at Old Navy in addition to working her full time job with Chewy in order to do whatever it takes to make ends meet for her family. Molly recently took a few extra shifts which paid her time and a half and she was able to get caught up on some bills with the extra money.",
+        "lifeChanged": "Molly's confidence has grown as she has done very well at Chewy since starting in December and has earned a different position with more responsibilities. Attending Ready to Learn helped Molly meet other parents and families in similiar circumstances as her which is helping to grow her social network. "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_2d92ecf8",
+      "participantName": "Kenzie C.",
+      "county": "Pickett",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kenzie C.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Kenzie was working part-time while going to school and could not afford childcare. Her grandmother provided childcare when she could otherwise Kenzie would miss school. ",
+        "inspiration": "Kenzie wanted a better life for her son than she had.",
+        "challenges": "Kenzie had a car that her grandmother had given her. She was driving around on bald tires and airing them up every few days. Kenzie was able to get some work done on her car through Empower  so that she could maintain employment. Kenzie was also struggling to make ends meet. She changed jobs and went from making $9.00/hr to $14.00/hr.",
+        "lifeChanged": "Kenzie has a good job with the potential for advancement. She has purchased a storage building that is is turning into a tiny house."
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_d8e623bd",
+      "participantName": "Harlee L.",
+      "county": "Pickett",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Harlee L.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "The family was living on Harlee's wifes disability check. The family was struggling and was going to the closest Helping Hands organization to get their kids school clothes. This organization shut down about 2 years ago, and the kids were made fun of at school. \n",
+        "inspiration": "Harlee knew that if he could get certified as a mechanic, that he could change his family's circumstances.",
+        "challenges": "It was a struggle  for Harlee to have the money for the transportation back and forth to school and still manage to keep their bills paid. With the help of Milestone payments for good grades and odd jobs, Harlee managed to become a certified mechanic.",
+        "lifeChanged": "Harlee is on his way to providing a better life for his family."
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_6a44eef3",
+      "participantName": "Michelle W.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Michelle W.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "WCTE got her into the program. HTC Workshops, CRMC with transportation and food",
+        "financialSituation": "Michelle says that they have always struggled. She says she knew that as her children got older they were going to need more and be looked at more, she is confident that by gaining her license to start a career, she will be able to do that. ",
+        "inspiration": "She says it is simple, her children. ",
+        "challenges": "Michelle says she has faced many challenges, but has always pushed through. She again mentioned our program and the support it has given. She also credits co-parenting and God for getting her through.",
+        "lifeChanged": "Michelle has become more confident personally and is more confident in her finances and future. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_d86b0dfe",
+      "participantName": "Stacey E.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Stacey E.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "The foundation was able to help with dental care for one of Stacey's children, therefore she was able to save that money and put it towards her debts. ",
+        "financialSituation": "Participant attained a 9% raise while working with Empower and has another one coming up that will put her over 225%.",
+        "inspiration": "Divorce - She was on her own for the first time and had to figure out how to make it on her own. ",
+        "challenges": "Participant has filed Chapter 13 bankruptcy and has been able to pay almost $20k towards this as well as having 4 teenagers struggling through their parent's divorce. ",
+        "lifeChanged": "Less financial stress means higher quality of life. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "graduation",
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_2f7ebc5c",
+      "participantName": "Jayden M.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Jayden M.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Circles USA has helped Jayden learn to socialize in group settings where there are always new people to meet and talk to. ",
+        "financialSituation": "Jayden's family relies heavily on community services and resources. Karate is not within their budget, but is something Jayden has always wanted to try. ",
+        "inspiration": "Jayden and his Mom (Tanayha) discussed him wanting to learn karate with her Empower Navigator and learned about the Youth Engagement assistance. ",
+        "challenges": "Adding in an unnecessary expense as a single mom of 3 was not within their means.",
+        "lifeChanged": "I mean, he's learning KARATE!! How cool is that?!"
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "partner-services",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_f908086e",
+      "participantName": "Kelley P.",
+      "county": "Van Buren",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kelley P.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Highland training help prepare her and circle with smart goals kept her on tack",
+        "financialSituation": "Worried in the past of how much she made would affect her husbands SSDI check has been a emotional toll on her family ",
+        "inspiration": "Working with her and with attending circles she has had the courage to work more enough tho her husband was not as happy ",
+        "challenges": "Working with HTC she got an interview which opened a larger conversation on her marriage and that she needed a higher-paying job. She did not obtain employment with the HTC but this opened up a job within her store to have a management she has been scared to take. ",
+        "lifeChanged": "Highland training help prepare her and circle with smart goals kept her on tack"
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_9df47074",
+      "participantName": "Connie W.",
+      "county": "Warren",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Connie W.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "family has struggled over the years and empower has opened up doors that has actully let to being more financially stable ",
+        "inspiration": "when TTU came to cirlces and talked Connie really wanted to make a carreer change and was inspired to through the speakers that night ",
+        "challenges": "they over came alot through help with money and community ",
+        "lifeChanged": "to see the families drive it inspires me to want to do better for my community and families "
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_8a5d55a5",
+      "participantName": "Kathryn N.",
+      "county": "Fentress",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kathryn N.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "UC Workforce or their sister partner helped pay the money that was needed for my client to graduate and she received a food box from CRMC. ",
+        "financialSituation": "Kathryn is a single mother who has worked as a CNA at the local nursing home, worked as a caregiver and at CRMC to help support her family while she was in school. The last time I met with Kathryn she said I have started having nightmares and  I said do you think it is because you are so close to being finished and she said oh yes. She said every night I dream that I can't pass the state test and I know I am prepared for it but I just can't believe it is almost here. ",
+        "inspiration": "Kathryn wanted a better life for her children and her mother has been instrumental in her being able to succeed as she moved in and helps with the kids and house while Kathryn is in school. ",
+        "challenges": "Kathryn called me in a panic after she was told that she needed $4600 paid to graduate. She had found the money through another program but a day or 2 later was told the funding was not available. I told her don't panic we will get it figured out and a few days later the program agreed to pay the amount owed as she had not requested any other assistance. When Kathryn came in for her first interview I asked if the household received SNAP and she said I applied in June 2023 but haven't heard anything. This was unacceptable to the me and I said  pull up you online account. When we discovered all the verifications were there I went with the client to the local DHS and we were able to get her a phone interview and get her SNAP started. ",
+        "lifeChanged": "In a few short weeks Kathryn will be earning more money as a Registered nurse that she ever has. She will be able to completely provide for her family and not rely on any public services. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "high"
+    },
+    {
+      "id": "story_4e237344",
+      "participantName": "Monica F.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Monica F.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Monica has made new friends and expanded her network through Circles. She has been inspired by others and built confidence by sharing her wins each week. ",
+        "financialSituation": "Monica loves her children dearly. Due to a lack of a support system, she resigned from her home care job this past summer to care for her children. It has been incredibly stressful for Monica not having income from work. Since her children have gone back to school, she has been taking part in Circles meetings. This experience has significantly improved her emotional social wellbeing by expanding her support network. ",
+        "inspiration": "Monica's biggest inspiration has been her experience in Circles. She has met other people going through similar experiences as her, which has made her feel less alone in her struggles. She has something to look forward to each week and is always excited to share her \"new and good.\" She truly sees the value in participating wholeheartedly in the Circles and Empower programs. Monica wants to create a better life for her children and this pushes her to move toward her professional and educational goals. ",
+        "challenges": "Monica has been challenged by finding employment that fits her education level, job experience, and education level. She has been working on overcoming these obstacles by communicating openly with employers about her needs. She has managed to get a job offer for a position that will work with her schedule. She is also enrolled in Adult Education and will have her GED next month, which will greatly improve her employment opportunities. ",
+        "lifeChanged": "Monica has re-enrolled in Adult Education and will earn her GED in the next month. She has a bigger support system, providing more people for her to lean on. She no longer feels like she is facing her challenges alone. She is on track to improve her financial situation through her professional and educational goals. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_44f9cf14",
+      "participantName": "Michelle S.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Michelle S.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "TTU has helped them start education path way they always wanted to accomplish ",
+        "financialSituation": "only one family member lacked a job and now they both work",
+        "inspiration": "mental and finical well being ",
+        "challenges": "Getting help with job assistance helped them so much ",
+        "lifeChanged": "giving them resources to help  over one  mental health and physical "
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_a8d42e7f",
+      "participantName": "Kenzie C.",
+      "county": "Pickett",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kenzie C.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Kenzie has always stayed in the background. She had a small circle of friends and kept quite because she did not have all the extras every other teenager had.",
+        "inspiration": "Kenzie wanted a better life for her son.",
+        "challenges": "Kenzie was driving a car that her grandmother had given her. The car was in rough shape with the tire being bald and showing wires. With the help of Empower UC her car got fixed and she received new tires. This allowed Kenzie to maintain employment.",
+        "lifeChanged": "She has a career and is providing a better life for her son."
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_bffc2670",
+      "participantName": "Tate C.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Tate C.: Breaking the Generational Cycle",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "She has had great success with Highlands Training Center and also UCDD and The Small Business Development",
+        "financialSituation": "Their family has faced significant financial challenges, living at the lowest level of poverty in a rural area, which has brought immense stress to their daily lives. With a family of five, including a disabled veteran spouse and three children, Tate has been navigating the complexities of making ends meet on a very tight budget. They rely on state programs and resources for assistance, while carefully managing every expense down to the penny. This has impacted the family\u2019s ability to build savings or handle unexpected costs, adding layers of stress that have taken a toll socially and emotionally.\nEmotionally, the strain of constantly working to stay afloat has made it difficult for Tate to find personal fulfillment outside of her roles as a wife and mother. The family\u2019s financial struggles have also limited their ability to engage in any social activities that many take for granted, leading to a sense of isolation at times. Despite these obstacles, Tate\u2019s commitment to her children\u2019s well-being, including their participation in school and karate, shows how she prioritizes their development even in the face of adversity. Her determination to create a better future for her family is remarkable, and her perseverance through difficult times is sure to set an example for her children.\n",
+        "inspiration": "Tate\u2019s inspiration to take action and change her family\u2019s situation came from a deep desire to break the cycle of generational poverty and provide a more stable and secure future for her children. As her kids grew older, she became acutely aware of how their financial struggles were affecting them emotionally and socially, and she refused to let them face the same hardships she had experienced. Tate realized that simply getting by was no longer enough\u2014she wanted her family to thrive, not just survive.\nThis drive to create a better life for her children, combined with her own entrepreneurial spirit, pushed her to seek out programs like Empower. She recognized that, while her circumstances were challenging, she had skills and determination that could be channeled into something greater. By focusing on her strengths in creativity and design, as well as her ability to balance family responsibilities, Tate set out on a path toward financial independence and a more fulfilling life.",
+        "challenges": "She encountered several challenges on her path, one of the most significant being burnout. As her business began to grow, the demands quickly escalated, and managing everything by herself became overwhelming. She had to learn how to balance the steady influx of work with the responsibilities of her home life, all while navigating her own mental and emotional limits. At times, it felt like there wasn\u2019t enough of her to go around.\nTo overcome these challenges, Tate made deliberate adjustments, like setting clear boundaries for her work hours and finding ways to delegate or simplify tasks. During this time, her husband\u2019s health was failing, so she took matters with the VA into her own hands, setting appointments for her husband on a consistent schedule, so she could advocate for him and ensure he got the care he needed to get better on her days off. With his health slowly improving now, she feels like she can breathe a little again. She also leaned into the resources and support offered by the Empower Program, which helped her focus on solutions rather than feeling trapped by the difficulties. This combination of practical strategies and emotional resilience allowed her to push through the obstacles and continue growing her business.\n",
+        "lifeChanged": "With Tate being able to finish her degree and Empower has given her the extra support she needed to be able to do that."
+      },
+      "archetypes": [
+        "first-in-family",
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "detailed",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_d12dc40c",
+      "participantName": "Jasmine F.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Jasmine F.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "This family is one that works hard and was struggling due to childcare issues and a long commute to work for Chris. They are positive people and they have social connections for friends and through their church, but are independently spirited people and are usually the ones looking out for everyone else. Jasmine is ready and willing to work if they could find childcare for their 2 very young children, but the waitlists are so long and services are so expensive, it makes more sense for her to stay home. Before enrolling in Empower UC, they had only the one vehicle, and so Jasmine often felt isolated from friends and her community as a stay at home mother of two little ones. ",
+        "inspiration": "Jasmine and Chris are resourceful and positive people. They know they are struggling though as a single income family and had a goal of owning their own home, too. Chris has a good job, but a long commute, and this leaves Jasmine at home with the 2 very young children without a car. They were hoping to make changes that would allow for homeownership, another vehicle and more social capital for Jasmine.",
+        "challenges": "Jasmine was a go-getter in terms of trying to find work-from-home jobs. She has great computer skills, but little experience. She often would get through first round stages of hiring, only to miss out on the placement. She tried to work for a local business owner, but they decided they were not ready to expand their staff. She then saw that childcare was going to be a barrier to working. Chris had a good job at time of enrollment, but has a very long commute. Right after enrollment, his only vehicle broke down and Empower UC was ready and able to find a repair shop that would provide a free loaner and we paid for the repairs in total. Chris did not miss work due to the car situation and preserved his place in line for a promotion. Also, Chris was able to regain a positive standing with his student loans and take advantage of good programs for repayment that work with his income. ",
+        "lifeChanged": "This family did not have to undertake a stressful move and was able to negotiate the purchase through rent-to-own from their landlord of their current home. Chris has achieved the first level of his new promotion and is in line for the next 2 levels of the 3-step process. They also recently were married and able to celebrate their special day with friends and have a wedding they had been dreaming about for a long time. They have been successfully exited from the Empower UC program by exceeding 225% of the FPL and had the ability for covering their own healthcare through his employer sponsored plan by focusing on their financial goals through budgeting and preserving full-time employment. Using their continued Employment & Successful Exit Milestone, they were able to make more repairs themselves on their vehicle and now have full peace of mind on the long commutes and a vehicle for Jasmine and the children, too. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "graduation",
+        "income-increase",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "detailed",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_447e58ab",
+      "participantName": "Briana C.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Briana C.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Please see below ",
+        "inspiration": "Briana decided she wanted more/better for herself and her daughter. ",
+        "challenges": "She's a single mother with little to no support system. ",
+        "lifeChanged": "Please see below "
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_93118130",
+      "participantName": "Caitlyn D.",
+      "county": "Warren",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Caitlyn D.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "TTU inspired her to sign up for college to finish her bachelors degree",
+        "financialSituation": "As a single mother without reliable transportation or family support, Ms. Davis faces profound emotional and social challenges. The lack of a support system often leaves her feeling isolated, with the weight of all responsibilities resting solely on her shoulders. Simple tasks like commuting to work, attending appointments, or managing her child\u2019s needs become overwhelming obstacles, amplifying stress and anxiety. Socially, the inability to easily connect with others or participate in community activities has limited her opportunities for meaningful interactions and personal growth, deepening feelings of loneliness and making her journey toward stability even more challenging.",
+        "inspiration": "After joining the Empower program, Ms. Davis found the motivation to make significant changes through the guidance and resources provided. The program offered her practical tools like the SmartDollar app for budgeting and financial planning, helping her regain control over her finances. Referrals to Highlands and TTU opened doors to training opportunities, enabling her to explore certifications and higher-paying job prospects. With consistent support, she began to address critical barriers like repairing her vehicle and ensuring active car insurance, which renewed her sense of independence and hope. Empower\u2019s structured guidance and encouragement inspired Ms. Davis to take proactive steps toward stability, transforming her outlook on her future and her ability to provide for her family.",
+        "challenges": "For two years, Ms. Davis lacked the support and financial resources to obtain car tags or address the extensive repairs her vehicle needed, leaving it idle and her opportunities limited. With the assistance of the UCHRA Empower program, she is finally overcoming these barriers. Empower helped her secure funds for insurance, tags, and repairs, enabling her to get her car back on the road and pursue full-time employment. Additionally, Ms. Davis has begun counseling and therapy through the program, addressing emotional and mental health challenges that have been longstanding obstacles. This comprehensive support is empowering her to rebuild her life and create a brighter future for her family.",
+        "lifeChanged": "Ms. Davis has transformed her life by addressing the barriers that once held her back. With Empower\u2019s support, she repaired her vehicle, sought mental health counseling, and developed a financial plan to rebuild stability. These changes have given her the confidence and tools to pursue full-time employment and provide for her family. By taking proactive steps, Ms. Davis has not only improved her circumstances but also gained a renewed sense of hope and independence."
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "high"
+    },
+    {
+      "id": "story_7dedb4c0",
+      "participantName": "Dwinn T.",
+      "county": "Fentress",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Dwinn T.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "TTU was great and gave Dwinn that boost of confidence that she needed when she was able to successfully complete the ILP. ",
+        "financialSituation": "Dwinn worked several years as a bookkeeper but due to local government changes she was let go and has struggled to find suitable employment that paid a decent wage. Dwinn went back to school but has also struggled to find success in the very competitive business of cosmetology.  Dwinn felt very defeated and she really likes living in a small town and didn't want to have to think about uprooting her child to make a living and provide for her. ",
+        "inspiration": "She wanted to be an inspiration to her daughter and doesn't like living paycheck to paycheck.",
+        "challenges": "Dwinn is no longer eligible for SNAP and she said that it makes it really hard to take a .50 or $1 raise when you lose several hundred dollars in benefits. ",
+        "lifeChanged": "Dwinn is almost finished with QuickBook Certification which was suggested by John Bell. Dwinn will hopefully be able to find part-time remote work to supplement her current employment and she won't have to try to move to a different area for a decent wage. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_e25638a3",
+      "participantName": "Kendra E.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kendra E.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Yes, success with most partners, (WCTE, TTU, HTC some success, Circles some sucess).",
+        "financialSituation": "The financial situation of the family has improved and has had a positive impact on the family.",
+        "inspiration": "The need for more money to help support the family.",
+        "challenges": "The member encountered challenges with interviewing, resume writing and effective communication. These challenges were overcome with training and preparation provided by HTC and Empower UC staff.",
+        "lifeChanged": "The applicant now has the courage and the ability to take the lead and be proactive in her finances, she has increased confidence."
+      },
+      "archetypes": [
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "partner-services"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_c8b2d7fe",
+      "participantName": "Dakota E.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Dakota E.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "None used - hopes to be able to come to Circles once he graduates. ",
+        "financialSituation": "Dakota wishes for his boys to be able to be more involves in extracirricular activites, but has been pressed financially to make ends meet. He has struggled with this and has taken action to provide these opportunities. ",
+        "inspiration": "Dakota wanted better for his children. ",
+        "challenges": "Dakota has had vehicle trouble causing stress, some grief from his employer about leaving for school/missing some work to care for the kids. He managed to budget his income tax to buy a vehicle and will graduate school at the end of February 2025. ",
+        "lifeChanged": "He will grauate with a Certificate from the Welding Program which will open up opportunities for a life long career. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_5e0ec69b",
+      "participantName": "Liberty R.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Liberty R.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Previously worked as a server making $2.13/hr while going to school",
+        "inspiration": "Wanted a career, not just a job",
+        "challenges": "Required government assistance to help with food for her child",
+        "lifeChanged": "Higher wage and more comfortable living situation. "
+      },
+      "archetypes": [
+        "career-builder",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_9ee241bc",
+      "participantName": "Alicia G.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Alicia G.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "The family was not well financially due to being a single parent. Alicia received SNAP benefits and Medicaid and was living with her mother at the time of enrollment. This was difficult and was part of what inspired Alicia to pursue her education.",
+        "inspiration": "Financial circumstances, being a single mother, having to live with family.",
+        "challenges": "Challenges encountered along the way were mostly financial. Alicia worked on budgeting and saving her money during this time and made the most of what she had. She did not ask for much, but when she did need a little help, we were able to assist with things like assistance with gas to get to and from school and work, as well as school supplies and job search assistance.",
+        "lifeChanged": "Alicia has earned a diesel technology degree and become a master diesel technician, certified. Her skillset and employability has increased ten-fold in a needy field. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "housing",
+        "single-parenting"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_cdd7a6f4",
+      "participantName": "Tamala E.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Tamala E.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Successfully completed My Strategic Compass to help with soft skills and resume building, also used TTI ILPs to further educate herself on digital and financial literacy. ",
+        "financialSituation": "Receives SNAP benefits to help feed her family, has a fianc\u00e9 that helped watch her children while she was in school",
+        "inspiration": "Looking for a career and financial independence. ",
+        "challenges": "Went from working part time in a factory, to enrolling in TCAT and working part time in home health.  ",
+        "lifeChanged": "Participant is excited about having a career and being able to provide for her family. She is more confident in her ability to accomplish difficult task. "
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "education",
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_d1865d1c",
+      "participantName": "Kristy B.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Kristy B.: A Future for the Next Generation",
+      "pullQuote": "I wanted to show my kids that they can do anything they set their minds to, even though we don't have w everything everyone else does doesn't mean it will hold us back from accomplishing goals",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "We have always been low income which restricted us from doing everything we wanted and from giving our kids the life we wanted to.",
+        "inspiration": "I wanted to show my kids that they can do anything they set their minds to, even though we don't have w everything everyone else does doesn't mean it will hold us back from accomplishing goals.",
+        "challenges": "Financial issues with hour cuts to go to school were rough but financial aid was helpful as well as milestones were a great help",
+        "lifeChanged": "I am now a licensed nurse and will be starting as an LPN soon which will better my family situation in many ways!"
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_d2fbd3ec",
+      "participantName": "Cayce R.",
+      "county": "White",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Cayce R.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "The family's financial situation is pretty stable, the participant manages her money very well and rarely requests outside assistance. The family is living paycheck to paycheck, however, she is now saving money since she is strictly following her budget",
+        "inspiration": "The participant has a daughter and the participant wants to earn more money in her career.",
+        "challenges": "",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "transportation"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_09fc11f7",
+      "participantName": "Kristin O.",
+      "county": "Macon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Kristin O.: Breaking the Generational Cycle",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Kristin had not had a eye exam or new glasses in several years. With the help from CRMC Kristin was able to obtain both!",
+        "financialSituation": "Part of Kristin's school requirements are unpaid internship with State of TN DCS where she is required to travel to Putnam County and meet the caseworker she will be working with each day. Kristin's partner Brian works full-time and is very supportive of Kristin and they both realize the impact a degree will have on their families future. Due to long nights with her internship Kristin has been unable to work so not only is Brian paying all the bills at home he travels to Crossville for work while Kristin drives to Cookeville for her internship. ",
+        "inspiration": "Kristin has faced some tough circumstances in childhood, but her determination to break the cycle of generational poverty and substance abuse is really the main factor that she wants better for her family. ",
+        "challenges": "Just being a one income household and also having to pay for transportation to Putnam several days a week to do internship. Household has taken advantage of LIHEAP, milestone payments as well as Brian working all the OT he can. ",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "first-in-family",
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_9ada8810",
+      "participantName": "Jessica A.",
+      "county": "Cannon",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Jessica A.: Building a Career Pathway",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "HTC - assessments and soft skills, TTU - confidence building ",
+        "financialSituation": "Jessica filed bankruptcy after not feeling like she had a choice. She was impacted and pressed down and wanted better for her family. ",
+        "inspiration": "\nJessica previously filed for bankruptcy and knew she would not be able to rent since her credit was impacted. The house she was renting went up for sale and it scared her! She signed up for Empower and knew she never wanted to face the idea of homelessness without any money saved. \n",
+        "challenges": "Job changes, transportation issues, housing - Jessica was working nights while her husband worked 2 jobs and they shared 1 vehicle. She ended up changing jobs and he got a job in his field of study with more pay and stability. We helped get their vehicle running and then they were able to save and purchase another vehicle for her to change jobs.",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "career-builder",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "high"
+    },
+    {
+      "id": "story_4eb977b6",
+      "participantName": "Kristina A.",
+      "county": "Macon",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Kristina A.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "Currently the family's financial situation is stable and improving. The participant has displayed remarkable determination and effort to get on track to succeed. Emotionally and socially she is positive and does not let her previous circumstances get her down. She has a network of support of family and friends she can depend on.",
+        "inspiration": "She was inspired by the need to maintain shelter, food and the basic necessities of living. Her partner left her and their son.",
+        "challenges": "The challenges encountered and overcome by the participant include finding a job, locating and getting her car back from her partner, using all resources to maintain her home and care of her child, staying focused on her goals, believing in herself and working closely with her navigator.",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "system-connector"
+      ],
+      "tags": [
+        "cliff-navigation",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 1.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_5017a7a1",
+      "participantName": "Rebecca W.",
+      "county": "Putnam",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Rebecca W.'s Journey to Self-Sufficiency",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "",
+        "financialSituation": "",
+        "inspiration": "",
+        "challenges": "",
+        "lifeChanged": ""
+      },
+      "archetypes": [],
+      "tags": [],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 0.3,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "low"
+    },
+    {
+      "id": "story_5feeb1ca",
+      "participantName": "Elizabeth G.",
+      "county": "Cumberland",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Elizabeth G.: A Future for the Next Generation",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Participant has made significant progress in managing her anxiety through mental health counseling provided by CRMC. She actively participated in several HTC workshops, which helped boost her confidence and reshape her perception of workplace environments. In pursuit of her long-term goal to start her own business, she successfully completed the Business Administration ILP through TTU and is currently working through the Communication ILP to strengthen an area she identified as a personal barrier.",
+        "financialSituation": "Single mother and her young son. With limited external support, she has consistently struggled to make ends meet, often facing food insecurity. These financial challenges have caused ongoing stress and emotional strain, impacting her sense of stability and well-being. Socially, the family has faced isolation at times, as financial limitations make it difficult to participate in community activities or maintain consistent connections.",
+        "inspiration": "The participant was motivated by her desire to be a good role model for her young son. He is her reason for wanting to improve their situation and build a better future.",
+        "challenges": "The participant initially struggled with anxiety about entering the workforce, which made it difficult to take those first steps toward employment. With support and counseling from CRMC and The Grove, she was able to work through those challenges and build the confidence needed to move forward.",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "moderate",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_c0262ded",
+      "participantName": "Dwinn T.",
+      "county": "Fentress",
+      "releaseFormSigned": true,
+      "willingToFilm": false,
+      "photoPath": null,
+      "headline": "Dwinn T.: Creating Family Stability",
+      "pullQuote": "",
+      "fullStory": {
+        "success": "Due to Dwinn & Lexi's involvement in Circles and Ready 2 Learn they are more likely to engage in community and volunteer work after their time with Empower Upper Cumberland.  They have already fostered a strong relationship with other volunteers in Cumberland and Fentress counties. ",
+        "financialSituation": "Dwinn was enrolled with monthly income of $960 per month and will exit later this month at $2764.80 per month. That is an increase of 188.89% in household income!",
+        "inspiration": "When Dwinn became a single mother and lost her home due to divorce she realized that she wanted to find a way to support herself and her daughter and not just survive but thrive. Lexi will be going to college in a few years and she new that she would need to help her succeed. ",
+        "challenges": "During Circle Leader training Dwinn experienced car trouble but she was determined to make the meetings and was able to secure a vehicle from a family member until hers was repaired. ",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "income-increase",
+        "education",
+        "children-family",
+        "career-employment",
+        "partner-services",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.5,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.8
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_1719a9fc",
+      "participantName": "Vernon E.",
+      "county": "DeKalb",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Vernon E.: A Future for the Next Generation",
+      "pullQuote": "We had a young son when we enrolled and soon after our baby son arrived",
+      "fullStory": {
+        "success": "Job mining through our Navigator",
+        "financialSituation": "We were drowning in debt, managed our money poorly and felt like there was no hope",
+        "inspiration": "We had a young son when we enrolled and soon after our baby son arrived",
+        "challenges": "\"It was a struggle to break bad spending habits, shopping smart instead of convenient went a long way in maximizing our dollar. Taking into account current employment situations and maximizing opportunities in front of us was a large step in the right direction.\"",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "two-generation-leader"
+      ],
+      "tags": [
+        "children-family",
+        "career-employment",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    },
+    {
+      "id": "story_2f506bc0",
+      "participantName": "Stacia D.",
+      "county": "Fentress",
+      "releaseFormSigned": true,
+      "willingToFilm": true,
+      "photoPath": null,
+      "headline": "Stacia D.: Breaking the Generational Cycle",
+      "pullQuote": "Being in recovery and wanting to make a lasting change and break the generational poverty and addiction in their families",
+      "fullStory": {
+        "success": "Stacia and her family have attended 3 PBS Ready 2 Learn (all 12 nights) series in Fentress County and have only missed one EmpowerMENT night since it started in Fentress. The family has truly enjoyed their Tuesday night meetings where they can engage in family activities. ",
+        "financialSituation": "Stacia attended school full-time at Fortis and Clayton worked full-time at Cobb Vantress. They both traveled out of the county for work and school and with 3 children they really utilized resources to make sure Stacia was able to complete the RN program at Fortis",
+        "inspiration": "Being in recovery and wanting to make a lasting change and break the generational poverty and addiction in their families.",
+        "challenges": "Stacia was in a wreck on her way home from school in Putnam County and thanks to her IDA she had the much needed down payment for a new vehicle and didn't have to resort to a predatory loan. ",
+        "lifeChanged": ""
+      },
+      "archetypes": [
+        "first-in-family",
+        "stability-architect",
+        "two-generation-leader",
+        "crisis-navigator",
+        "system-connector"
+      ],
+      "tags": [
+        "education",
+        "children-family",
+        "career-employment",
+        "transportation",
+        "housing"
+      ],
+      "metricRelevance": {
+        "fplGraduation": 0.0,
+        "wageGains": 0.0,
+        "childrenImpact": 1.0,
+        "cliffCrossings": 0.0,
+        "partnerEngagement": 0.2
+      },
+      "outcomes": {
+        "fplAtEnrollment": null,
+        "fplAtExit": null,
+        "wageGainAnnual": 0,
+        "daysInProgram": null
+      },
+      "storyDepth": "brief",
+      "emotionalResonance": "medium"
+    }
+  ]
+}

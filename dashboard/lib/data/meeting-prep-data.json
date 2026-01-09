@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-07",
+    "data_as_of": "January 7, 2026",
+    "rct_status": "Validation pending with MEF Associates / Urban Institute"
+  },
+  "core_metrics": {
+    "families_served": {
+      "value": 880,
+      "label": "Families Enrolled",
+      "methodology": "Total unique families enrolled in EUC program since inception",
+      "data_source": "Baseline Assessment Report",
+      "confidence": "measured"
+    },
+    "families_with_outcomes": {
+      "value": 200,
+      "label": "Active Families",
+      "methodology": "Families with ongoing case management in Monthly Client Review",
+      "data_source": "Navigator Dashboard",
+      "confidence": "measured"
+    },
+    "total_wage_gains": {
+      "value": 6200000,
+      "label": "Total Wage Gains",
+      "methodology": "Sum of all positive wage changes recorded for program participants",
+      "data_source": "Monthly Client Review wage change field",
+      "confidence": "measured"
+    },
+    "avg_wage_gain": {
+      "value": 10358,
+      "label": "Average Wage Gain per Family",
+      "methodology": "Mean wage change among families with positive outcomes",
+      "data_source": "Monthly Client Review",
+      "confidence": "measured"
+    },
+    "graduation_count": {
+      "value": 60,
+      "label": "Graduated (225%+ FPL)",
+      "methodology": "Families who reached 225% Federal Poverty Level, the EUC graduation threshold",
+      "data_source": "Outcome tracking",
+      "confidence": "measured"
+    },
+    "graduation_rate": {
+      "value": 6.8,
+      "label": "Graduation Rate",
+      "methodology": "Graduates / Total enrolled × 100",
+      "data_source": "Calculated",
+      "confidence": "measured"
+    },
+    "children_impacted": {
+      "value": 1905,
+      "label": "Children in Households",
+      "methodology": "Sum of children_in_household field for all enrolled families",
+      "data_source": "Baseline Assessment household size",
+      "confidence": "measured"
+    },
+    "positive_outcome_rate": {
+      "value": 46.8,
+      "label": "Positive FPL Change Rate",
+      "methodology": "Families with positive FPL change / families with FPL data (321/686)",
+      "data_source": "Monthly Client Review",
+      "confidence": "measured",
+      "caveat": "Only 686 of 880 families have FPL data"
+    },
+    "avg_days_in_program": {
+      "value": 547,
+      "label": "Average Days in Program",
+      "methodology": "Mean program tenure for families with outcomes",
+      "data_source": "Monthly Client Review",
+      "confidence": "measured"
+    }
+  },
+  "investment": {
+    "program_cost_to_date": {
+      "value": 5842000,
+      "label": "Estimated Program Cost",
+      "methodology": "880 families × $5K direct support + 17 navigators × $40K + 15% overhead",
+      "breakdown": {
+        "direct_support": 4400000,
+        "navigator_salaries": 680000,
+        "operations_overhead": 762000
+      },
+      "confidence": "estimated",
+      "caveat": "Based on program model estimates; actual spending may vary"
+    },
+    "total_tanf_allocation": {
+      "value": 25000000,
+      "label": "Total TANF Allocation",
+      "methodology": "5-year TANF pilot funding from Tennessee Department of Human Services",
+      "confidence": "measured"
+    },
+    "cost_per_family": {
+      "value": 6639,
+      "label": "Cost per Family",
+      "methodology": "Estimated program cost / families enrolled",
+      "confidence": "estimated"
+    },
+    "cost_per_graduate": {
+      "value": 97367,
+      "label": "Cost per Graduate",
+      "methodology": "Estimated program cost / graduates",
+      "confidence": "estimated"
+    }
+  },
+  "roi_calculations": {
+    "primary": {
+      "value": 6.4,
+      "label": "Lifetime ROI",
+      "display": "6.4:1",
+      "methodology": "Lifetime family income gains / estimated program cost to date",
+      "calculation": {
+        "annual_wage_gains": 6200000,
+        "tax_rate_applied": 0.333,
+        "annual_tax_revenue": 2064600,
+        "lifetime_years": 20,
+        "lifetime_value": 41292000,
+        "denominator": 5842000,
+        "denominator_label": "Estimated program cost to date"
+      },
+      "interpretation": "For every $1 invested in the program, families gain $6.40 in lifetime income",
+      "confidence": "projected",
+      "caveats": [
+        "Assumes wage gains persist for 20 years",
+        "Does not account for wage fade over time",
+        "RCT validation pending"
+      ]
+    },
+    "taxpayer": {
+      "value": 7.1,
+      "label": "Taxpayer Lifetime ROI",
+      "display": "7.1:1",
+      "methodology": "Lifetime tax revenue + benefits savings / estimated program cost",
+      "calculation": {
+        "annual_tax_revenue": 2064600,
+        "annual_benefits_savings": 557600,
+        "total_annual": 2622200,
+        "lifetime_years": 20,
+        "lifetime_value": 41500000,
+        "denominator": 5842000
+      },
+      "interpretation": "Taxpayers receive $7.10 in value for every $1 invested",
+      "confidence": "projected"
+    },
+    "conservative": {
+      "value": 1.06,
+      "label": "Annual Return",
+      "display": "$1.06",
+      "methodology": "Annual wage gains / estimated program cost",
+      "interpretation": "Program generates $1.06 in wage gains per dollar spent annually",
+      "confidence": "measured"
+    },
+    "break_even_years": {
+      "value": 2.8,
+      "label": "Break-even Period",
+      "methodology": "Program cost / annual taxpayer benefit",
+      "interpretation": "Program pays for itself in under 3 years",
+      "confidence": "projected"
+    }
+  },
+  "tax_revenue": {
+    "fica": {
+      "value": 948600,
+      "rate": 0.153,
+      "label": "FICA (Social Security + Medicare)"
+    },
+    "federal": {
+      "value": 620000,
+      "rate": 0.10,
+      "label": "Federal Income Tax (effective rate)"
+    },
+    "sales_tax": {
+      "value": 496000,
+      "rate": 0.08,
+      "spending_share": 0.60,
+      "label": "Tennessee Sales Tax"
+    },
+    "total_annual": {
+      "value": 2064600,
+      "label": "Total Annual Tax Revenue"
+    }
+  },
+  "benefits_savings": {
+    "total_annual": {
+      "value": 557600,
+      "label": "Estimated Annual Benefits Savings",
+      "methodology": "Based on families crossing FPL thresholds that trigger benefit phase-outs",
+      "confidence": "estimated"
+    },
+    "by_threshold": {
+      "graduates_225plus": {
+        "count": 60,
+        "per_family": 17900,
+        "total": 1074000,
+        "benefits": ["TennCare adult", "SNAP", "TANF cash", "Childcare subsidy"]
+      },
+      "crossed_150plus": {
+        "count": 26,
+        "per_family": 9900,
+        "total": 257400,
+        "benefits": ["SNAP", "TANF cash", "Childcare (reduced)"]
+      }
+    }
+  },
+  "benchmarks": {
+    "year_up": {
+      "name": "Year Up",
+      "cost_per_participant": 30000,
+      "roi": "2.5:1",
+      "note": "Urban workforce development, RCT-validated",
+      "relevance": "Foundation benchmark"
+    },
+    "project_quest": {
+      "name": "Project QUEST",
+      "cost_per_participant": 10000,
+      "roi": "2.3:1",
+      "note": "14-year RCT follow-up",
+      "relevance": "Gold standard evidence"
+    },
+    "jeremiah_program": {
+      "name": "Jeremiah Program",
+      "cost_per_participant": 25000,
+      "roi": "4:1",
+      "note": "Two-generation model, Wilder SROI",
+      "relevance": "Similar population"
+    },
+    "building_nebraska_families": {
+      "name": "Building Nebraska Families",
+      "cost_per_participant": 5000,
+      "roi": "0:1",
+      "note": "Only other rural TANF RCT - showed zero impact",
+      "relevance": "Cautionary comparison"
+    }
+  },
+  "audience_framings": {
+    "government": {
+      "headline": "Taxpayer Investment Returning $7.10 per Dollar",
+      "subhead": "TANF pilot generating tax revenue and reducing benefit costs",
+      "key_metrics": ["roi_taxpayer", "tax_revenue", "benefits_savings", "break_even", "cost_efficiency"],
+      "comparison_frame": "vs. traditional TANF spending",
+      "trust_signals": ["Conservative methodology", "Audit-ready documentation", "Cost per graduate"]
+    },
+    "foundations": {
+      "headline": "880 Families Building Economic Stability",
+      "subhead": "Two-generation approach creating lasting change",
+      "key_metrics": ["families_served", "wage_gains", "children_impacted", "graduation_rate", "roi_family"],
+      "comparison_frame": "vs. Year Up, Project QUEST, Jeremiah",
+      "trust_signals": ["RCT evaluation planned", "Rigorous data collection", "Honest about limitations"]
+    },
+    "federal": {
+      "headline": "Rural TANF Innovation Showing Promise",
+      "subhead": "Evidence building for scalable poverty intervention",
+      "key_metrics": ["evidence_status", "fpl_movement", "cost_effectiveness", "replication_potential"],
+      "comparison_frame": "vs. Building Nebraska Families (only other rural TANF RCT)",
+      "trust_signals": ["RCT design", "Clear theory of change", "Policy-relevant outcomes"]
+    },
+    "media": {
+      "headline": "60 Families Have Escaped Poverty",
+      "subhead": "Tennessee program helping rural families build stability",
+      "key_metrics": ["graduation_stories", "children_count", "avg_gain_human", "time_investment"],
+      "comparison_frame": "human scale numbers",
+      "trust_signals": ["Real families", "Specific outcomes", "Transparent about what's proven"]
+    },
+    "replicators": {
+      "headline": "What It Takes: 17 Navigators, $6M, 880 Families",
+      "subhead": "Honest assessment of costs, results, and lessons learned",
+      "key_metrics": ["staffing_model", "cost_breakdown", "results_range", "time_to_results"],
+      "comparison_frame": "implementation reality",
+      "trust_signals": ["Full cost transparency", "What worked and didn't", "Adaptation considerations"]
+    }
+  }
+}

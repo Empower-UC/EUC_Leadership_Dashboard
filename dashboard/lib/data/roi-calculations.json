@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-09T09:40:35.996553",
+    "methodology_version": "1.0",
+    "investment_denominator": 25000000,
+    "discount_rate": 0.03,
+    "data_source": "Longitudinal assessment data (first to last assessment comparison)"
+  },
+  "data_quality": {
+    "assessment_date": "2026-01-09T09:40:35.996559",
+    "data_sources": [
+      "Processed longitudinal assessments",
+      "Navigator Dashboard (FPL data)"
+    ],
+    "total_participants": 940,
+    "participants_with_wage_data": 751,
+    "positive_wage_gainers": 351,
+    "positive_rate_pct": 46.7
+  },
+  "measured_outcomes": {
+    "timestamp": "2026-01-09T09:40:35.996561",
+    "methodology": "Observed data only, no projections",
+    "all_participants": {
+      "count_with_data": 751,
+      "total_annual_wage_gains": 6401215.0,
+      "mean_wage_gain": 6021.12,
+      "median_wage_gain": 0.0,
+      "positive_gainers_count": 351,
+      "positive_gainers_pct": 46.7
+    },
+    "children": {
+      "total_estimated": 1880,
+      "avg_per_family": 2.0,
+      "note": "Estimated based on average household size"
+    }
+  },
+  "fpl_distribution": {
+    "extreme_poverty": 239,
+    "deep_poverty": 202,
+    "unknown": 157,
+    "snap_tenncare": 118,
+    "graduated": 79,
+    "liheap_childcare": 65,
+    "deep_cliff": 58,
+    "near_graduation": 22
+  },
+  "tier1_conservative": {
+    "methodology": "Measured annual wage gains only. No projections.",
+    "appropriate_audience": "Skeptical funders, evaluators, legislators wanting floor estimates",
+    "investment_denominator": 25000000,
+    "metrics": {
+      "documented_annual_wage_gains": 6401215.0,
+      "annual_return_per_dollar_invested": 0.256,
+      "break_even_years_undiscounted": 3.91,
+      "cost_per_dollar_income_generated": 3.91
+    },
+    "benchmarks": {
+      "project_quest": {
+        "cost_per_dollar": 0.3,
+        "note": "14-year RCT follow-up"
+      },
+      "year_up": {
+        "cost_per_dollar": 1.3,
+        "note": "~$30K/participant"
+      },
+      "euc_comparison": "EUC: $3.91"
+    },
+    "caveats": [
+      "Assumes all measured wage gains persist for at least 1 year",
+      "Does not account for what would have happened without program (no RCT yet)",
+      "Uses full $25M investment as denominator, not spent-to-date"
+    ]
+  },
+  "tier2_taxpayer": {
+    "methodology": "Tax revenue from wage gains + estimated benefits cost avoidance by FPL tier",
+    "appropriate_audience": "State legislators, TANF administrators, taxpayer advocates",
+    "investment_denominator": 25000000,
+    "tax_revenue": {
+      "fica_employer_employee": 979386.0,
+      "federal_income_effective_10pct": 640121.0,
+      "state_income_tn_none": 0.0,
+      "sales_tax_on_spending": 307258.0,
+      "total_annual": 1926766.0
+    },
+    "benefits_savings": {
+      "by_tier": {
+        "graduates_225plus": {
+          "count": 79,
+          "per_family_savings": 17900,
+          "total": 1414100,
+          "benefits_exited": [
+            "TennCare adult",
+            "SNAP",
+            "TANF cash",
+            "Childcare subsidy"
+          ]
+        },
+        "tier2_150plus": {
+          "count": 22,
+          "per_family_savings": 9900,
+          "total": 217800,
+          "benefits_exited": [
+            "SNAP",
+            "TANF cash",
+            "Childcare (reduced)"
+          ]
+        },
+        "tier3_100plus": {
+          "count": 0,
+          "per_family_savings": 5150,
+          "total": 0.0,
+          "benefits_exited": [
+            "TANF cash",
+            "SNAP (reduced)"
+          ]
+        },
+        "tier4_improved": {
+          "count": 0,
+          "per_family_savings": 1000,
+          "total": 0,
+          "benefits_exited": [
+            "SNAP (marginal reduction)"
+          ]
+        }
+      },
+      "total_annual": 1631900.0,
+      "caveat": "Estimates based on FPL thresholds, not tracked benefit terminations"
+    },
+    "combined": {
+      "total_annual_taxpayer_benefit": 3558666.0,
+      "annual_return_per_dollar": 0.1423,
+      "break_even_years": 7.0,
+      "ten_year_return_undiscounted": 35586656.0
+    },
+    "caveats": [
+      "Benefits savings are ESTIMATES based on FPL thresholds",
+      "Actual savings depend on individual benefit receipt and recertification timing",
+      "Does not account for what would have happened without program",
+      "TN-specific benefit levels used (lower than national average)"
+    ]
+  },
+  "tier3_lifecycle": {
+    "methodology": "Annual wage gains projected over working lifetime with discount rate",
+    "appropriate_audience": "Workforce development funders, program comparison",
+    "investment_denominator": 25000000,
+    "assumptions": {
+      "working_years_remaining": 25,
+      "discount_rate": 0.03,
+      "note": "Age data not available; using 25 years as conservative estimate"
+    },
+    "projections": {
+      "full_persistence": {
+        "lifetime_pv": 111465294.0,
+        "roi_ratio": 4.5,
+        "assumption": "Wage gains persist unchanged for 25 years"
+      },
+      "with_fade": {
+        "lifetime_pv": 83663046.0,
+        "roi_ratio": 3.3,
+        "assumption": "Wage gains fade: 100% years 1-5, 80% years 6-10, 60% years 11-25"
+      }
+    },
+    "benchmarks": {
+      "project_quest": {
+        "lifetime_roi": "2.34:1",
+        "note": "14-year RCT, $4,434/yr gains"
+      },
+      "year_up": {
+        "lifetime_roi": "2.46:1",
+        "note": "Social return on investment"
+      },
+      "jeremiah_program": {
+        "lifetime_roi": "4:1",
+        "note": "Wilder SROI methodology"
+      }
+    },
+    "caveats": [
+      "PROJECTION: Assumes wage gains persist; research shows effects often fade",
+      "Working years assumed at 25; actual varies by participant age",
+      "Without RCT, cannot claim causation\u2014association only",
+      "Sensitivity analysis recommended for key assumptions"
+    ]
+  },
+  "tier4_intergenerational": {
+    "methodology": "Includes research-based projections of child outcome improvements",
+    "appropriate_audience": "Visionary funders, long-term impact investors",
+    "investment_denominator": 25000000,
+    "research_basis": "Chetty et al.: $1,000 childhood income increase -> 1.3% higher adult earnings",
+    "intergenerational": {
+      "total_children": 1880,
+      "avg_family_income_increase": 18237.0,
+      "chetty_coefficient": 0.013,
+      "projected_earnings_boost_per_child_annual": 9483.0,
+      "total_children_earnings_boost_annual": 17828568.0,
+      "lifetime_pv_discounted": 224297245.0
+    },
+    "combined_societal": {
+      "adult_lifecycle_pv": 83663046.0,
+      "intergenerational_pv": 224297245.0,
+      "total_societal_pv": 307960291.0,
+      "societal_roi_ratio": 12.3
+    },
+    "caveats": [
+      "HIGHLY SPECULATIVE: Intergenerational effects are research-based projections, not measured",
+      "Chetty research based on different populations; applicability to rural TN uncertain",
+      "Effects won't be observable for 15-20 years",
+      "Represents potential, not proven impact",
+      "Should not be primary ROI cited; use for 'comprehensive potential' framing"
+    ],
+    "red_flag": "WARNING: ROI >10:1 may indicate overclaiming. Verify assumptions."
+  },
+  "sensitivity_analysis": {
+    "methodology": "Varies key assumptions to show range of outcomes",
+    "attribution": {
+      "scenarios": {
+        "100pct": {
+          "attributed_annual_gains": 6401215.0,
+          "implied_lifecycle_roi": 6.4
+        },
+        "70pct": {
+          "attributed_annual_gains": 4480850.0,
+          "implied_lifecycle_roi": 4.5
+        },
+        "50pct": {
+          "attributed_annual_gains": 3200607.0,
+          "implied_lifecycle_roi": 3.2
+        },
+        "30pct": {
+          "attributed_annual_gains": 1920364.0,
+          "implied_lifecycle_roi": 1.9
+        }
+      },
+      "note": "RCT will reveal actual attribution; Building Nebraska Families showed 0% attribution"
+    },
+    "wage_persistence": {
+      "scenarios": {
+        "full": {
+          "description": "100% persistence, 25 years",
+          "lifetime_value": 160030364.0,
+          "roi_ratio": 6.4
+        },
+        "moderate_fade": {
+          "description": "Fade to 60% by year 10",
+          "lifetime_value": 96018218.0,
+          "roi_ratio": 3.8
+        },
+        "rapid_fade": {
+          "description": "Fade to 30% by year 5",
+          "lifetime_value": 51209716.0,
+          "roi_ratio": 2.0
+        }
+      },
+      "note": "Research shows workforce gains often fade; long-term follow-up rare"
+    },
+    "denominator": {
+      "scenarios": {
+        "full_25m": {
+          "value": 25000000,
+          "roi_ratio": 6.4
+        },
+        "annual_program_cost": {
+          "value": 6000000,
+          "roi_ratio": 26.7
+        },
+        "marginal_per_family": {
+          "value": 7000,
+          "roi_ratio": 26.5,
+          "note": "Useful for marginal cost analysis"
+        }
+      },
+      "recommendation": "Use $25M for consistency; note if different denominator used"
+    }
+  },
+  "summary": {
+    "generated_at": "2026-01-09T09:40:35.996568",
+    "data_basis": {
+      "total_families_served": 940,
+      "total_measured_wage_gains": 6401215.0,
+      "children_impacted": 1880
+    },
+    "roi_by_framing": {
+      "conservative_annual": {
+        "metric": "Annual return per $1 invested",
+        "value": 0.256,
+        "methodology": "Measured annual wage gains only. No projections.",
+        "audience": "Skeptical funders, evaluators, legislators wanting floor estimates"
+      },
+      "taxpayer_annual": {
+        "metric": "Annual taxpayer benefit per $1 invested",
+        "value": 0.1423,
+        "methodology": "Tax revenue from wage gains + estimated benefits cost avoidance by FPL tier",
+        "audience": "State legislators, TANF administrators, taxpayer advocates"
+      },
+      "lifecycle_with_fade": {
+        "metric": "Lifetime ROI (with wage fade)",
+        "value": "3.3:1",
+        "methodology": "Annual wage gains projected over working lifetime with discount rate",
+        "audience": "Workforce development funders, program comparison"
+      },
+      "societal_comprehensive": {
+        "metric": "Comprehensive societal ROI",
+        "value": "12.3:1",
+        "methodology": "Includes research-based projections of child outcome improvements",
+        "audience": "Visionary funders, long-term impact investors"
+      }
+    },
+    "key_caveats": [
+      "RCT validation pending with MEF Associates / Urban Institute",
+      "Without RCT, shows association not causation",
+      "Building Nebraska Families (only rural TANF RCT) showed zero impact",
+      "Benefits savings are estimates, not tracked terminations",
+      "Intergenerational effects are projections, not measurements"
+    ]
+  },
+  "constants_used": {
+    "program": {
+      "total_investment": 25000000,
+      "target_graduates": 300,
+      "target_served": 800
+    },
+    "tax_rates": {
+      "fica_total": 0.153,
+      "federal_income_effective": 0.1,
+      "state_income": 0.0,
+      "sales_tax_rate": 0.08,
+      "sales_tax_spending_share": 0.6
+    },
+    "benefits_values": {
+      "tenncare_adult": 6000,
+      "tenncare_child": 3000,
+      "snap_household": 5500,
+      "tanf_cash": 2400,
+      "childcare_full": 4000,
+      "childcare_reduced": 2000
+    },
+    "projection_assumptions": {
+      "discount_rate": 0.03,
+      "default_working_years": 25,
+      "wage_persistence_year5": 0.8,
+      "wage_persistence_year10": 0.6,
+      "chetty_coefficient": 0.013,
+      "avg_children_per_family": 2.0
+    }
+  }
+}

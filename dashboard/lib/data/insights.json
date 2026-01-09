@@ -1,0 +1,156 @@
+{
+  "generated_at": "2026-01-09T09:40:36.101952",
+  "fplTerciles": [
+    {
+      "tercile": "Deep Poverty (<50%)",
+      "count": 249,
+      "avgStartFpl": 22.0,
+      "avgFplChange": 29.6
+    },
+    {
+      "tercile": "Poverty (50-100%)",
+      "count": 278,
+      "avgStartFpl": 75.0,
+      "avgFplChange": 27.3
+    },
+    {
+      "tercile": "Near Poverty (>100%)",
+      "count": 303,
+      "avgStartFpl": 138.0,
+      "avgFplChange": 14.4
+    }
+  ],
+  "durationBins": [
+    {
+      "durationBin": "0-3 mo",
+      "count": 115,
+      "avgFplChange": 6.8,
+      "avgDays": 33.0
+    },
+    {
+      "durationBin": "3-6 mo",
+      "count": 132,
+      "avgFplChange": 13.6,
+      "avgDays": 120.0
+    },
+    {
+      "durationBin": "6-9 mo",
+      "count": 99,
+      "avgFplChange": 23.1,
+      "avgDays": 216.0
+    },
+    {
+      "durationBin": "9-12 mo",
+      "count": 106,
+      "avgFplChange": 31.7,
+      "avgDays": 315.0
+    },
+    {
+      "durationBin": "12-18 mo",
+      "count": 181,
+      "avgFplChange": 35.8,
+      "avgDays": 462.0
+    },
+    {
+      "durationBin": "18+ mo",
+      "count": 103,
+      "avgFplChange": 35.1,
+      "avgDays": 635.0
+    }
+  ],
+  "countyPerformance": [
+    {
+      "county": "Fentress",
+      "count": 56,
+      "avgFplChange": 43.4,
+      "totalWageGains": 564297.0560000001
+    },
+    {
+      "county": "Macon",
+      "count": 85,
+      "avgFplChange": 40.1,
+      "totalWageGains": 964506.9959999999
+    },
+    {
+      "county": "Dekalb",
+      "count": 28,
+      "avgFplChange": 35.1,
+      "totalWageGains": 303563.26999999996
+    },
+    {
+      "county": "Cumberland",
+      "count": 79,
+      "avgFplChange": 29.6,
+      "totalWageGains": 559913.7259999999
+    },
+    {
+      "county": "Jackson",
+      "count": 26,
+      "avgFplChange": 27.4,
+      "totalWageGains": 241091.64
+    },
+    {
+      "county": "Pickett",
+      "count": 29,
+      "avgFplChange": 27.0,
+      "totalWageGains": 222855.64
+    },
+    {
+      "county": "Smith",
+      "count": 58,
+      "avgFplChange": 21.6,
+      "totalWageGains": 497760.96
+    },
+    {
+      "county": "Cannon",
+      "count": 59,
+      "avgFplChange": 20.9,
+      "totalWageGains": 401184.76999999996
+    },
+    {
+      "county": "Putnam",
+      "count": 192,
+      "avgFplChange": 20.3,
+      "totalWageGains": 1177269.0899999999
+    },
+    {
+      "county": "Clay",
+      "count": 35,
+      "avgFplChange": 17.9,
+      "totalWageGains": 247361.0
+    },
+    {
+      "county": "White",
+      "count": 78,
+      "avgFplChange": 17.5,
+      "totalWageGains": 447218.72000000003
+    },
+    {
+      "county": "Overton",
+      "count": 58,
+      "avgFplChange": 14.9,
+      "totalWageGains": 287760.95999999996
+    },
+    {
+      "county": "Warren",
+      "count": 88,
+      "avgFplChange": 14.5,
+      "totalWageGains": 400805.72
+    },
+    {
+      "county": "Van Buren",
+      "count": 12,
+      "avgFplChange": 6.1,
+      "totalWageGains": 19079.0
+    },
+    {
+      "county": "DeKalb",
+      "count": 33,
+      "avgFplChange": 2.2,
+      "totalWageGains": 34322.0
+    }
+  ],
+  "employmentSubgroup": [],
+  "avgDays": 282.0,
+  "avgFplChange": 23.7
+}

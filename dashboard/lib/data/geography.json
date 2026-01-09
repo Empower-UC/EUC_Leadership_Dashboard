@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-01-09T09:40:36.090301",
+  "counties": [
+    {
+      "county": "Putnam",
+      "total": 192,
+      "graduated": 13,
+      "active": 36,
+      "avgFplChange": 20.3,
+      "totalWageGains": 1177269.0899999999
+    },
+    {
+      "county": "Warren",
+      "total": 88,
+      "graduated": 2,
+      "active": 22,
+      "avgFplChange": 14.5,
+      "totalWageGains": 400805.72
+    },
+    {
+      "county": "Macon",
+      "total": 85,
+      "graduated": 8,
+      "active": 24,
+      "avgFplChange": 40.1,
+      "totalWageGains": 964506.9959999999
+    },
+    {
+      "county": "Cumberland",
+      "total": 79,
+      "graduated": 7,
+      "active": 9,
+      "avgFplChange": 29.6,
+      "totalWageGains": 559913.7259999999
+    },
+    {
+      "county": "White",
+      "total": 78,
+      "graduated": 9,
+      "active": 16,
+      "avgFplChange": 17.5,
+      "totalWageGains": 447218.72000000003
+    },
+    {
+      "county": "Cannon",
+      "total": 59,
+      "graduated": 9,
+      "active": 18,
+      "avgFplChange": 20.9,
+      "totalWageGains": 401184.76999999996
+    },
+    {
+      "county": "Overton",
+      "total": 58,
+      "graduated": 2,
+      "active": 21,
+      "avgFplChange": 14.9,
+      "totalWageGains": 287760.95999999996
+    },
+    {
+      "county": "Smith",
+      "total": 58,
+      "graduated": 3,
+      "active": 13,
+      "avgFplChange": 21.6,
+      "totalWageGains": 497760.96
+    },
+    {
+      "county": "Fentress",
+      "total": 56,
+      "graduated": 7,
+      "active": 17,
+      "avgFplChange": 43.4,
+      "totalWageGains": 564297.0560000001
+    },
+    {
+      "county": "Clay",
+      "total": 35,
+      "graduated": 2,
+      "active": 9,
+      "avgFplChange": 17.9,
+      "totalWageGains": 247361.0
+    },
+    {
+      "county": "DeKalb",
+      "total": 33,
+      "graduated": 0,
+      "active": 16,
+      "avgFplChange": 2.2,
+      "totalWageGains": 34322.0
+    },
+    {
+      "county": "Pickett",
+      "total": 29,
+      "graduated": 3,
+      "active": 5,
+      "avgFplChange": 27.0,
+      "totalWageGains": 222855.64
+    },
+    {
+      "county": "Dekalb",
+      "total": 28,
+      "graduated": 5,
+      "active": 2,
+      "avgFplChange": 35.1,
+      "totalWageGains": 303563.26999999996
+    },
+    {
+      "county": "Jackson",
+      "total": 26,
+      "graduated": 2,
+      "active": 8,
+      "avgFplChange": 27.4,
+      "totalWageGains": 241091.64
+    },
+    {
+      "county": "Van Buren",
+      "total": 12,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": 6.1,
+      "totalWageGains": 19079.0
+    },
+    {
+      "county": "WHite",
+      "total": 2,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": 30.0,
+      "totalWageGains": 31724.0
+    },
+    {
+      "county": "Maon",
+      "total": 1,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": 0.0,
+      "totalWageGains": 0.0
+    },
+    {
+      "county": "Wararen",
+      "total": 1,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": 0.4,
+      "totalWageGains": 500.0
+    },
+    {
+      "county": "Delalb",
+      "total": 1,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": -3.6,
+      "totalWageGains": 0.0
+    },
+    {
+      "county": "Cumerland",
+      "total": 1,
+      "graduated": 1,
+      "active": 0,
+      "avgFplChange": -8.2,
+      "totalWageGains": 0.0
+    },
+    {
+      "county": "Smithville",
+      "total": 1,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": -2.8,
+      "totalWageGains": 0.0
+    },
+    {
+      "county": "DeKallb",
+      "total": 1,
+      "graduated": 0,
+      "active": 0,
+      "avgFplChange": 0.0,
+      "totalWageGains": 0.0
+    },
+    {
+      "county": "Davidson",
+      "total": 1,
+      "graduated": 0,
+      "active": 1,
+      "avgFplChange": 0.0,
+      "totalWageGains": 0.0
+    }
+  ]
+}
