@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T09:40:36.037890",
+  "generated_at": "2026-01-09T10:25:36.309424",
   "totalParticipants": 940,
   "totalChildren": 2040,
   "outcomeBreakdown": [
@@ -11,7 +11,7 @@
     },
     {
       "category": "active",
-      "count": 217,
+      "count": 205,
       "avgFplChange": 12.9,
       "avgDays": 179.0
     },
