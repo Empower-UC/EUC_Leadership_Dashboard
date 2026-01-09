@@ -531,7 +531,7 @@ def run_pipeline():
     print("\n" + "="*60)
     print("GENERATING DASHBOARD JSON")
     print("="*60)
-    from src.analytics.generate import generate_all_dashboard_json
+    from pipeline.analytics.generate import generate_all_dashboard_json
     generate_all_dashboard_json(DASHBOARD_DATA)
 
     print("\n" + "="*60)
