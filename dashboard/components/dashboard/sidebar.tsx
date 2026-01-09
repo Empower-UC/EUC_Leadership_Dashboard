@@ -15,6 +15,7 @@ import {
   Presentation,
   AlertTriangle,
   BookHeart,
+  Lightbulb,
 } from "lucide-react";
 
 // Grouped navigation with clear hierarchy
@@ -35,6 +36,7 @@ const navGroups = [
   {
     label: "Analysis",
     items: [
+      { name: "Insights", href: "/insights", icon: Lightbulb },
       { name: "Stories", href: "/stories", icon: BookHeart },
       { name: "Cliff Analysis", href: "/cliff-analysis", icon: AlertTriangle },
       { name: "ROI", href: "/roi", icon: Calculator },
