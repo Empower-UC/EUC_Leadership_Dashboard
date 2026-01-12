@@ -40,12 +40,12 @@ export default function InsightsPage() {
             </div>
             <div className="bg-white rounded-xl border border-gray-200 p-5">
               <div className="flex items-center gap-3 mb-3">
-                <div className="w-8 h-8 rounded-lg bg-[#8B9E8B]/10 flex items-center justify-center">
-                  <TrendingUp className="h-4 w-4 text-[#8B9E8B]" />
+                <div className="w-8 h-8 rounded-lg bg-emerald-50 flex items-center justify-center">
+                  <TrendingUp className="h-4 w-4 text-emerald-600" />
                 </div>
                 <span className="text-xs font-medium text-gray-500 uppercase tracking-wide">Avg FPL Change</span>
               </div>
-              <div className="text-2xl font-semibold text-[#8B9E8B] tabular-nums">+{data.avgFplChange}%</div>
+              <div className="text-2xl font-semibold text-emerald-600 tabular-nums">+{data.avgFplChange}%</div>
               <p className="text-sm text-gray-500 mt-1">across all participants</p>
             </div>
             <div className="bg-white rounded-xl border border-gray-200 p-5">
@@ -122,7 +122,7 @@ export default function InsightsPage() {
                       <div className="w-36 text-sm text-gray-600">{row.duration}</div>
                       <div className="flex-1 h-7 bg-gray-100 rounded-md overflow-hidden relative">
                         <div
-                          className="h-full bg-[#8B9E8B] rounded-md transition-all duration-500"
+                          className="h-full bg-emerald-500 rounded-md transition-all duration-500"
                           style={{ width: `${Math.max(barWidth, 4)}%` }}
                         />
                         <span className="absolute right-2 top-1/2 -translate-y-1/2 text-[11px] text-gray-500">
@@ -208,14 +208,14 @@ export default function InsightsPage() {
                       <div className="w-36 text-sm text-gray-600 truncate">{row.tercile}</div>
                       <div className="flex-1 h-7 bg-gray-100 rounded-md overflow-hidden relative">
                         <div
-                          className="h-full bg-[#8B9E8B] rounded-md transition-all duration-500"
+                          className="h-full bg-emerald-500 rounded-md transition-all duration-500"
                           style={{ width: `${Math.max(barWidth, 4)}%` }}
                         />
                         <span className="absolute right-2 top-1/2 -translate-y-1/2 text-[11px] text-gray-500">
                           n={row.count}
                         </span>
                       </div>
-                      <div className="w-14 text-sm text-right tabular-nums font-medium text-[#8B9E8B]">
+                      <div className="w-14 text-sm text-right tabular-nums font-medium text-emerald-600">
                         +{row.avgFplChange.toFixed(1)}%
                       </div>
                     </div>
@@ -257,7 +257,7 @@ export default function InsightsPage() {
                       <TableRow key={county.county} className={idx < topCounties.length - 1 ? "border-b border-gray-100" : ""}>
                         <TableCell className="text-sm text-gray-900 py-2.5">{county.county}</TableCell>
                         <TableCell className="text-sm text-gray-600 text-right tabular-nums py-2.5">{county.count}</TableCell>
-                        <TableCell className="text-sm text-[#8B9E8B] text-right tabular-nums font-medium py-2.5">
+                        <TableCell className="text-sm text-emerald-600 text-right tabular-nums font-medium py-2.5">
                           +{county.avgFplChange.toFixed(1)}%
                         </TableCell>
                       </TableRow>
