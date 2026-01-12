@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-09T11:42:14.056266",
+  "generated_at": "2026-01-12T15:03:39.420710",
   "participants": [
     {
       "participantId": "10240",
@@ -152,7 +152,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -166,7 +166,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -208,7 +208,7 @@
       "currentFpl": 75.6,
       "fplChange": -2.2,
       "wageChange": 27.0,
-      "daysInProgram": -81,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -250,7 +250,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -404,7 +404,7 @@
       "currentFpl": 109.8,
       "fplChange": -3.3,
       "wageChange": 0.0,
-      "daysInProgram": -152,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -572,7 +572,7 @@
       "currentFpl": 1.2,
       "fplChange": -0.0,
       "wageChange": 0.0,
-      "daysInProgram": -9,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -726,7 +726,7 @@
       "currentFpl": 3.3,
       "fplChange": -0.1,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -824,7 +824,7 @@
       "currentFpl": 19.1,
       "fplChange": -13.7,
       "wageChange": -4800.0,
-      "daysInProgram": -80,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1034,7 +1034,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1048,7 +1048,7 @@
       "currentFpl": 50.0,
       "fplChange": -1.6,
       "wageChange": 1.0,
-      "daysInProgram": -10,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1090,7 +1090,7 @@
       "currentFpl": 52.5,
       "fplChange": -1.7,
       "wageChange": 0.0,
-      "daysInProgram": -124,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1104,7 +1104,7 @@
       "currentFpl": 37.5,
       "fplChange": -1.2,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1146,7 +1146,7 @@
       "currentFpl": 39.8,
       "fplChange": -1.2,
       "wageChange": 0.0,
-      "daysInProgram": -168,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1188,7 +1188,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1230,7 +1230,7 @@
       "currentFpl": 46.9,
       "fplChange": 0.4,
       "wageChange": 500.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1258,7 +1258,7 @@
       "currentFpl": 23.6,
       "fplChange": -0.8,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "other"
     },
     {
@@ -1286,7 +1286,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -1398,7 +1398,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1468,7 +1468,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1524,7 +1524,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1622,7 +1622,7 @@
       "currentFpl": 22.5,
       "fplChange": -149.0,
       "wageChange": -38280.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1818,7 +1818,7 @@
       "currentFpl": 118.2,
       "fplChange": -4.1,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1874,7 +1874,7 @@
       "currentFpl": 65.1,
       "fplChange": -1.9,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1888,7 +1888,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -1986,7 +1986,7 @@
       "currentFpl": 39.5,
       "fplChange": -1.2,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2042,7 +2042,7 @@
       "currentFpl": 8.7,
       "fplChange": -0.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2098,7 +2098,7 @@
       "currentFpl": 22.5,
       "fplChange": -0.7,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -2112,7 +2112,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2210,7 +2210,7 @@
       "currentFpl": 42.6,
       "fplChange": -1.5,
       "wageChange": 0.0,
-      "daysInProgram": -20,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -2238,7 +2238,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -2350,7 +2350,7 @@
       "currentFpl": 15.3,
       "fplChange": -0.4,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2364,7 +2364,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": 944.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2420,7 +2420,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2462,7 +2462,7 @@
       "currentFpl": 40.6,
       "fplChange": null,
       "wageChange": 10810.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2490,7 +2490,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -66,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2518,7 +2518,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -2532,7 +2532,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2742,7 +2742,7 @@
       "currentFpl": 161.4,
       "fplChange": -5.2,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2798,7 +2798,7 @@
       "currentFpl": 97.6,
       "fplChange": -3.1,
       "wageChange": 0.0,
-      "daysInProgram": -44,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -2952,7 +2952,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -2966,7 +2966,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -66,
+      "daysInProgram": null,
       "outcomeCategory": "graduated"
     },
     {
@@ -2980,7 +2980,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -3022,7 +3022,7 @@
       "currentFpl": 12.2,
       "fplChange": -0.4,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -3232,7 +3232,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -117,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -3246,7 +3246,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -3302,7 +3302,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -3344,7 +3344,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -3358,7 +3358,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -64,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -3372,7 +3372,7 @@
       "currentFpl": 150.1,
       "fplChange": -4.8,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -3414,7 +3414,7 @@
       "currentFpl": 159.4,
       "fplChange": -4.7,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -3736,7 +3736,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -61,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -3764,7 +3764,7 @@
       "currentFpl": 141.8,
       "fplChange": -4.9,
       "wageChange": 0.0,
-      "daysInProgram": -48,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -3932,7 +3932,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -4002,7 +4002,7 @@
       "currentFpl": 31.1,
       "fplChange": -17.8,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4016,7 +4016,7 @@
       "currentFpl": 5.6,
       "fplChange": -0.2,
       "wageChange": 0.0,
-      "daysInProgram": -100,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4156,7 +4156,7 @@
       "currentFpl": 125.7,
       "fplChange": 1.8,
       "wageChange": 1500.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -4170,7 +4170,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4184,7 +4184,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4198,7 +4198,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4212,7 +4212,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -105,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4268,7 +4268,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -4310,7 +4310,7 @@
       "currentFpl": 105.1,
       "fplChange": -3.4,
       "wageChange": 0.0,
-      "daysInProgram": -127,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -4380,7 +4380,7 @@
       "currentFpl": 86.2,
       "fplChange": -3.0,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4422,7 +4422,7 @@
       "currentFpl": 137.1,
       "fplChange": 63.7,
       "wageChange": 14000.0,
-      "daysInProgram": -71,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4548,7 +4548,7 @@
       "currentFpl": 165.1,
       "fplChange": -5.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4562,7 +4562,7 @@
       "currentFpl": 112.6,
       "fplChange": -3.6,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4576,7 +4576,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -4674,7 +4674,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -4926,7 +4926,7 @@
       "currentFpl": 81.1,
       "fplChange": -2.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -4996,7 +4996,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -5122,7 +5122,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -5136,7 +5136,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -5150,7 +5150,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -5164,7 +5164,7 @@
       "currentFpl": 111.2,
       "fplChange": -3.2,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -5402,7 +5402,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -5514,7 +5514,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -5542,7 +5542,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -5892,7 +5892,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -6046,7 +6046,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6102,7 +6102,7 @@
       "currentFpl": 85.1,
       "fplChange": -3.0,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6158,7 +6158,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": -8338.0,
-      "daysInProgram": -70,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6172,7 +6172,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6186,7 +6186,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": -9600.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6326,7 +6326,7 @@
       "currentFpl": 90.4,
       "fplChange": -100.4,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6410,7 +6410,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -6466,7 +6466,7 @@
       "currentFpl": 206.4,
       "fplChange": -6.6,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6606,7 +6606,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -6676,7 +6676,7 @@
       "currentFpl": 3.5,
       "fplChange": -0.1,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -6858,7 +6858,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7194,7 +7194,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7236,7 +7236,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7348,7 +7348,7 @@
       "currentFpl": 29.9,
       "fplChange": -0.9,
       "wageChange": 0.0,
-      "daysInProgram": -38,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7432,7 +7432,7 @@
       "currentFpl": 126.7,
       "fplChange": 53.2,
       "wageChange": -80.0,
-      "daysInProgram": -64,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7446,7 +7446,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7558,7 +7558,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7572,7 +7572,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7600,7 +7600,7 @@
       "currentFpl": 98.2,
       "fplChange": -2.9,
       "wageChange": 0.0,
-      "daysInProgram": -142,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7628,7 +7628,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": -28880.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7698,7 +7698,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7712,7 +7712,7 @@
       "currentFpl": 163.9,
       "fplChange": 125.4,
       "wageChange": 22656.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7754,7 +7754,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7810,7 +7810,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7824,7 +7824,7 @@
       "currentFpl": 93.3,
       "fplChange": -2.8,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -7866,7 +7866,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -7936,7 +7936,7 @@
       "currentFpl": 378.9,
       "fplChange": 85.4,
       "wageChange": 20141.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "graduated"
     },
     {
@@ -7978,7 +7978,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -8006,7 +8006,7 @@
       "currentFpl": 42.6,
       "fplChange": -1.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8034,7 +8034,7 @@
       "currentFpl": 100.3,
       "fplChange": 75.9,
       "wageChange": 16216.0,
-      "daysInProgram": -139,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8048,7 +8048,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -8202,7 +8202,7 @@
       "currentFpl": 74.4,
       "fplChange": -2.2,
       "wageChange": 0.0,
-      "daysInProgram": -29,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8258,7 +8258,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8286,7 +8286,7 @@
       "currentFpl": 238.2,
       "fplChange": 108.1,
       "wageChange": 29880.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "graduated"
     },
     {
@@ -8328,7 +8328,7 @@
       "currentFpl": 79.7,
       "fplChange": -2.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8412,7 +8412,7 @@
       "currentFpl": 54.0,
       "fplChange": -1.7,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8454,7 +8454,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -8594,7 +8594,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -8636,7 +8636,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -8776,7 +8776,7 @@
       "currentFpl": 94.6,
       "fplChange": -3.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8860,7 +8860,7 @@
       "currentFpl": 66.4,
       "fplChange": -1.9,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8888,7 +8888,7 @@
       "currentFpl": 214.7,
       "fplChange": 164.7,
       "wageChange": 59844.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -8902,7 +8902,7 @@
       "currentFpl": 62.2,
       "fplChange": -1.9,
       "wageChange": 0.0,
-      "daysInProgram": -93,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -8972,7 +8972,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9056,7 +9056,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9140,7 +9140,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -9224,7 +9224,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9336,7 +9336,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9364,7 +9364,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9406,7 +9406,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9672,7 +9672,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9700,7 +9700,7 @@
       "currentFpl": 4.5,
       "fplChange": -0.1,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -9728,7 +9728,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9770,7 +9770,7 @@
       "currentFpl": 53.5,
       "fplChange": -1.6,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -9826,7 +9826,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -9854,7 +9854,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -9924,7 +9924,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -357,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -9994,7 +9994,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10162,7 +10162,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10218,7 +10218,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10274,7 +10274,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10330,7 +10330,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10372,7 +10372,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10512,7 +10512,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10540,7 +10540,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10596,7 +10596,7 @@
       "currentFpl": 62.2,
       "fplChange": -1.9,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10722,7 +10722,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10792,7 +10792,7 @@
       "currentFpl": 3.4,
       "fplChange": -2.0,
       "wageChange": 0.0,
-      "daysInProgram": -87,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10806,7 +10806,7 @@
       "currentFpl": 61.5,
       "fplChange": -2.1,
       "wageChange": 0.0,
-      "daysInProgram": -3,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10834,7 +10834,7 @@
       "currentFpl": 2.1,
       "fplChange": -0.1,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10918,7 +10918,7 @@
       "currentFpl": 62.8,
       "fplChange": -0.3,
       "wageChange": -108.0,
-      "daysInProgram": -176,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -10932,7 +10932,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -10946,7 +10946,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": -25920.0,
-      "daysInProgram": -48,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -11058,7 +11058,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11072,7 +11072,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -5,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11142,7 +11142,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11212,7 +11212,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11254,7 +11254,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -11268,7 +11268,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11380,7 +11380,7 @@
       "currentFpl": 90.1,
       "fplChange": 0.0,
       "wageChange": 0.0,
-      "daysInProgram": -72,
+      "daysInProgram": null,
       "outcomeCategory": "other"
     },
     {
@@ -11422,7 +11422,7 @@
       "currentFpl": 124.8,
       "fplChange": -3.7,
       "wageChange": 0.0,
-      "daysInProgram": -2,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -11856,7 +11856,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11870,7 +11870,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11926,7 +11926,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -11940,7 +11940,7 @@
       "currentFpl": 0.0,
       "fplChange": null,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -11982,7 +11982,7 @@
       "currentFpl": 86.3,
       "fplChange": -2.8,
       "wageChange": 0.0,
-      "daysInProgram": -110,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -12038,7 +12038,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12052,7 +12052,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12094,7 +12094,7 @@
       "currentFpl": 29.9,
       "fplChange": -0.9,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -12122,7 +12122,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12136,7 +12136,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12164,7 +12164,7 @@
       "currentFpl": 76.5,
       "fplChange": -2.2,
       "wageChange": 0.0,
-      "daysInProgram": -57,
+      "daysInProgram": null,
       "outcomeCategory": "other"
     },
     {
@@ -12234,7 +12234,7 @@
       "currentFpl": 34.2,
       "fplChange": -1.0,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12248,7 +12248,7 @@
       "currentFpl": 47.8,
       "fplChange": -1.4,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -12290,7 +12290,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12318,7 +12318,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12346,7 +12346,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12360,7 +12360,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12388,7 +12388,7 @@
       "currentFpl": 119.4,
       "fplChange": 26.5,
       "wageChange": 9400.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -12430,7 +12430,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -5,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12472,7 +12472,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12500,7 +12500,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12556,7 +12556,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12570,7 +12570,7 @@
       "currentFpl": 47.3,
       "fplChange": -1.6,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -12598,7 +12598,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12626,7 +12626,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12640,7 +12640,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12668,7 +12668,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12682,7 +12682,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12696,7 +12696,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12710,7 +12710,7 @@
       "currentFpl": 67.5,
       "fplChange": -2.2,
       "wageChange": 0.0,
-      "daysInProgram": -103,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -12724,7 +12724,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12738,7 +12738,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12766,7 +12766,7 @@
       "currentFpl": 10.0,
       "fplChange": -0.3,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "withdrawn"
     },
     {
@@ -12780,7 +12780,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12836,7 +12836,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12906,7 +12906,7 @@
       "currentFpl": 73.0,
       "fplChange": -2.0,
       "wageChange": 0.0,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -12920,7 +12920,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12962,7 +12962,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -12990,7 +12990,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -13074,7 +13074,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -13088,7 +13088,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -13102,7 +13102,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -13116,7 +13116,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     },
     {
@@ -13130,7 +13130,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "dismissed"
     },
     {
@@ -13158,7 +13158,7 @@
       "currentFpl": null,
       "fplChange": null,
       "wageChange": null,
-      "daysInProgram": -1,
+      "daysInProgram": null,
       "outcomeCategory": "active"
     }
   ],

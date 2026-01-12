@@ -465,6 +465,7 @@ def build_participant_journeys(assessments: pd.DataFrame) -> pd.DataFrame:
     journey['income_change_annual'] = journey['income_change_monthly'] * 12
     journey['fpl_change'] = journey['last_fpl'] - journey['first_fpl']
     journey['days_in_program'] = (journey['last_date'] - journey['first_date']).dt.days
+    journey.loc[journey['days_in_program'] < 0, 'days_in_program'] = None  # Data error - clamp to None
 
     # Outcome classifications
     journey['is_graduate'] = journey['last_fpl'] >= 225

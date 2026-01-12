@@ -402,7 +402,7 @@ def generate_participants_json(journeys: pd.DataFrame, output_dir: Path) -> Dict
             "currentFpl": round(float(row['current_fpl']), 1) if pd.notna(row.get('current_fpl')) else None,
             "fplChange": round(float(row['fpl_change']), 1) if pd.notna(row.get('fpl_change')) else None,
             "wageChange": round(float(row['income_change_annual']), 0) if pd.notna(row.get('income_change_annual')) else None,
-            "daysInProgram": int(row['days_in_program']) if pd.notna(row.get('days_in_program')) else None,
+            "daysInProgram": int(row['days_in_program']) if pd.notna(row.get('days_in_program')) and row['days_in_program'] >= 0 else None,
             "outcomeCategory": get_outcome_category(row),
         })
 

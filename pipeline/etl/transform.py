@@ -266,11 +266,12 @@ def link_and_enrich(
     participants["latest_assessment_date"] = latest["assessment_date"]
     participants["latest_monthly_income"] = latest["total_monthly_income"]
 
-    # Calculate days in program
+    # Calculate days in program (clamp negative to None - indicates data error)
     participants["days_in_program"] = (
         pd.to_datetime(participants["latest_assessment_date"]) -
         pd.to_datetime(participants["enrollment_date"])
     ).dt.days
+    participants.loc[participants["days_in_program"] < 0, "days_in_program"] = None
 
     participants = participants.reset_index()
 
