@@ -146,12 +146,12 @@ export function OverviewClient({
               </div>
             </div>
 
-            <div className="hidden lg:flex items-center gap-4 bg-white rounded-2xl px-6 py-4 shadow-lg">
-              <div className="w-12 h-12 rounded-xl bg-emerald-500 flex items-center justify-center">
+            <div className="hidden lg:flex items-center gap-4 bg-white/95 backdrop-blur rounded-2xl px-6 py-4 shadow-lg border border-white/20">
+              <div className="w-12 h-12 rounded-xl bg-[#D4A574] flex items-center justify-center">
                 <TrendingUp className="w-6 h-6 text-white" />
               </div>
               <div>
-                <p className="text-3xl font-bold text-gray-900 font-data">
+                <p className="text-3xl font-bold text-[#1E3A5F] font-data">
                   {data.improvementRate.toFixed(0)}%
                 </p>
                 <p className="text-sm text-gray-600 font-medium">showed positive change</p>
@@ -228,12 +228,12 @@ export function OverviewClient({
             variants={itemVariants}
           >
             <div className="flex items-center justify-between mb-4">
-              <div className="w-10 h-10 rounded-xl bg-teal-500 flex items-center justify-center">
+              <div className="w-10 h-10 rounded-xl bg-[#6B9BE0] flex items-center justify-center">
                 <Activity className="w-5 h-5 text-white" />
               </div>
               <div className="flex items-center gap-1.5">
-                <div className="w-1.5 h-1.5 rounded-full bg-teal-500 animate-pulse" />
-                <span className="text-xs text-teal-600 font-medium">Active</span>
+                <div className="w-1.5 h-1.5 rounded-full bg-[#4A7CCC] animate-pulse" />
+                <span className="text-xs text-[#4A7CCC] font-medium">Active</span>
               </div>
             </div>
             <p className="text-3xl font-bold text-[#1E3A5F] font-data">
@@ -442,7 +442,7 @@ export function OverviewClient({
                 <p className="text-xs text-white/60 mt-1">vs Year Up ~$30K</p>
               </div>
 
-              <div className="bg-emerald-600 rounded-xl p-4">
+              <div className="bg-[#D4A574] rounded-xl p-4">
                 <div className="flex items-center gap-2 mb-2">
                   <TrendingUp className="w-4 h-4 text-white/70" />
                   <span className="text-xs text-white/70 uppercase tracking-wider">Tax Revenue/yr</span>
